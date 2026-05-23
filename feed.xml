@@ -3,7 +3,8 @@
   <Ad>
     <Id>DKA-ERV10-K01-10-DM</Id>
     <Address>Хабаровск, ул. Лазо, 2Д/3</Address>
-    <Category>Ремонт и строительство</Category>
+    <Category>Для дома и дачи</Category>
+    <AdType>Товар приобретен на продажу</AdType>
     <GoodsType>Электрика</GoodsType>
     <ProductType>Розетки и выключатели</ProductType>
     <Condition>Новое</Condition>
@@ -31,7 +32,8 @@
   <Ad>
     <Id>DKA-zeta44409</Id>
     <Address>Хабаровск, ул. Лазо, 2Д/3</Address>
-    <Category>Ремонт и строительство</Category>
+    <Category>Для дома и дачи</Category>
+    <AdType>Товар приобретен на продажу</AdType>
     <GoodsType>Электрика</GoodsType>
     <ProductType>Кабель-каналы и гофрированные трубы</ProductType>
     <Condition>Новое</Condition>
@@ -59,7 +61,8 @@
   <Ad>
     <Id>DKA-NG3104</Id>
     <Address>Хабаровск, ул. Лазо, 2Д/3</Address>
-    <Category>Ремонт и строительство</Category>
+    <Category>Для дома и дачи</Category>
+    <AdType>Товар приобретен на продажу</AdType>
     <GoodsType>Электрика</GoodsType>
     <ProductType>Молниезащита и заземление</ProductType>
     <Condition>Новое</Condition>
@@ -87,7 +90,8 @@
   <Ad>
     <Id>DKA-MAD10-2-016-C-030</Id>
     <Address>Хабаровск, ул. Лазо, 2Д/3</Address>
-    <Category>Ремонт и строительство</Category>
+    <Category>Для дома и дачи</Category>
+    <AdType>Товар приобретен на продажу</AdType>
     <GoodsType>Электрика</GoodsType>
     <ProductType>Автоматы и УЗО</ProductType>
     <Condition>Новое</Condition>
@@ -115,7 +119,8 @@
   <Ad>
     <Id>DKA-MKP-V-18-41-G</Id>
     <Address>Хабаровск, ул. Лазо, 2Д/3</Address>
-    <Category>Ремонт и строительство</Category>
+    <Category>Для дома и дачи</Category>
+    <AdType>Товар приобретен на продажу</AdType>
     <GoodsType>Электрика</GoodsType>
     <ProductType>Щиты и боксы</ProductType>
     <Condition>Новое</Condition>
@@ -143,7 +148,8 @@
   <Ad>
     <Id>DKA-MAD10-2-025-C-030</Id>
     <Address>Хабаровск, ул. Лазо, 2Д/3</Address>
-    <Category>Ремонт и строительство</Category>
+    <Category>Для дома и дачи</Category>
+    <AdType>Товар приобретен на продажу</AdType>
     <GoodsType>Электрика</GoodsType>
     <ProductType>Автоматы и УЗО</ProductType>
     <Condition>Новое</Condition>
@@ -171,7 +177,8 @@
   <Ad>
     <Id>DKA-71540</Id>
     <Address>Хабаровск, ул. Лазо, 2Д/3</Address>
-    <Category>Ремонт и строительство</Category>
+    <Category>Для дома и дачи</Category>
+    <AdType>Товар приобретен на продажу</AdType>
     <GoodsType>Электрика</GoodsType>
     <ProductType>Кабель-каналы и гофрированные трубы</ProductType>
     <Condition>Новое</Condition>
@@ -199,7 +206,8 @@
   <Ad>
     <Id>DKA-CM430645</Id>
     <Address>Хабаровск, ул. Лазо, 2Д/3</Address>
-    <Category>Ремонт и строительство</Category>
+    <Category>Для дома и дачи</Category>
+    <AdType>Товар приобретен на продажу</AdType>
     <GoodsType>Крепёж</GoodsType>
     <ProductType>Анкеры</ProductType>
     <Condition>Новое</Condition>
@@ -227,7 +235,8 @@
   <Ad>
     <Id>DKA-MAD22-6-025-C-30</Id>
     <Address>Хабаровск, ул. Лазо, 2Д/3</Address>
-    <Category>Ремонт и строительство</Category>
+    <Category>Для дома и дачи</Category>
+    <AdType>Товар приобретен на продажу</AdType>
     <GoodsType>Электрика</GoodsType>
     <ProductType>Автоматы и УЗО</ProductType>
     <Condition>Новое</Condition>
@@ -255,7 +264,8 @@
   <Ad>
     <Id>DKA-A9N19661</Id>
     <Address>Хабаровск, ул. Лазо, 2Д/3</Address>
-    <Category>Ремонт и строительство</Category>
+    <Category>Для дома и дачи</Category>
+    <AdType>Товар приобретен на продажу</AdType>
     <GoodsType>Электрика</GoodsType>
     <ProductType>Автоматы и УЗО</ProductType>
     <Condition>Новое</Condition>
@@ -283,8 +293,9 @@
   <Ad>
     <Id>DKA-NDB-A-DC01</Id>
     <Address>Хабаровск, ул. Лазо, 2Д/3</Address>
-    <Category>Электроника</Category>
-    <GoodsType>Системы умного дома</GoodsType>
+    <Category>Для дома и дачи</Category>
+    <AdType>Товар приобретен на продажу</AdType>
+    <GoodsType>Электрика</GoodsType>
     <ProductType>Дверные звонки</ProductType>
     <Condition>Новое</Condition>
     <Title>Звонок беспроводной Navigator NDB-A-DC01 36 мелодий 100 м</Title>
