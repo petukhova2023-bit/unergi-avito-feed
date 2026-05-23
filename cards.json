@@ -1,0 +1,133 @@
+{
+  "_meta": {
+    "company": "ООО «ДКА»",
+    "phone": "+78005601077",
+    "address": "Хабаровск, ул. Лазо, 2Д/3",
+    "manager": "Менеджер ДКА",
+    "created": "2026-05-23",
+    "feed_version": "1.0"
+  },
+  "cards": [
+    {
+      "id": "DKA-ERV10-K01-10-DM",
+      "art": "ERV10-K01-10-DM",
+      "category": "Ремонт и строительство",
+      "goods_type": "Электрика",
+      "product_type": "Розетки и выключатели",
+      "title": "Розетка скрытая IEK Вега РС10-2-ВБ 10А белая Хабаровск",
+      "price": 89,
+      "image_filename": "rozetka_vega_800.png",
+      "qty": 961
+    },
+    {
+      "id": "DKA-zeta44409",
+      "art": "zeta44409",
+      "category": "Ремонт и строительство",
+      "goods_type": "Электрика",
+      "product_type": "Кабель-каналы и гофрированные трубы",
+      "title": "Металлорукав 38мм ПВХ МРПИ НГ ЗЭТА 20м чёрный Хабаровск",
+      "price": 299,
+      "image_filename": "metallorukav_800.jpg",
+      "qty": 360
+    },
+    {
+      "id": "DKA-NG3104",
+      "art": "NG3104",
+      "category": "Ремонт и строительство",
+      "goods_type": "Электрика",
+      "product_type": "Молниезащита и заземление",
+      "title": "Соединитель пруток-пруток D8 ДКС NG3104 молниезащита",
+      "price": 459,
+      "image_filename": "soedinitel_604.jpg",
+      "qty": 180
+    },
+    {
+      "id": "DKA-MAD10-2-016-C-030",
+      "art": "MAD10-2-016-C-030",
+      "category": "Ремонт и строительство",
+      "goods_type": "Электрика",
+      "product_type": "Автоматы и УЗО",
+      "title": "Дифавтомат АД-12 2P 16А 30мА C IEK MAD10-2-016 Хабаровск",
+      "price": 990,
+      "image_filename": "difavtomat_600.jpg",
+      "qty": 246
+    },
+    {
+      "id": "DKA-MKP-V-18-41-G",
+      "art": "MKP-V-18-41-G",
+      "category": "Ремонт и строительство",
+      "goods_type": "Электрика",
+      "product_type": "Щиты и боксы",
+      "title": "Щит ЩРВ-П-18 встраиваемый IP41 IEK Хабаровск 18 модулей",
+      "price": 749,
+      "image_filename": "shit_460.jpg",
+      "qty": 123
+    },
+    {
+      "id": "DKA-MAD10-2-025-C-030",
+      "art": "MAD10-2-025-C-030",
+      "category": "Ремонт и строительство",
+      "goods_type": "Электрика",
+      "product_type": "Автоматы и УЗО",
+      "title": "Дифавтомат АД-12 2P 25А 30мА C IEK KARAT Хабаровск",
+      "price": 1190,
+      "image_filename": "difavtomat_25a.jpg",
+      "qty": 139
+    },
+    {
+      "id": "DKA-71540",
+      "art": "71540",
+      "category": "Ремонт и строительство",
+      "goods_type": "Электрика",
+      "product_type": "Кабель-каналы и гофрированные трубы",
+      "title": "Гофра ПНД 40мм тяжёлая оранжевая DKC 71540 бухта 20м",
+      "price": 3190,
+      "image_filename": "gofra_40_orange.jpg",
+      "qty": 48
+    },
+    {
+      "id": "DKA-CM430645",
+      "art": "CM430645",
+      "category": "Ремонт и строительство",
+      "goods_type": "Крепёж",
+      "product_type": "Анкеры",
+      "title": "Анкер забивной М6×55 с болтом DKC CM430645 уп.40 шт",
+      "price": 2390,
+      "image_filename": "anker_m6_800.png",
+      "qty": 60
+    },
+    {
+      "id": "DKA-MAD22-6-025-C-30",
+      "art": "MAD22-6-025-C-30",
+      "category": "Ремонт и строительство",
+      "goods_type": "Электрика",
+      "product_type": "Автоматы и УЗО",
+      "title": "Дифавтомат АВДТ-34 3P+N C25 30мА тип A 6кА IEK Хабаровск",
+      "price": 1820,
+      "image_filename": "avdt34_25a.jpg",
+      "qty": 75
+    },
+    {
+      "id": "DKA-A9N19661",
+      "art": "A9N19661",
+      "category": "Ремонт и строительство",
+      "goods_type": "Электрика",
+      "product_type": "Автоматы и УЗО",
+      "title": "Дифавтомат Schneider Acti9 DPN N Vigi 6А C 30мА A9N19661",
+      "price": 14790,
+      "image_filename": "schneider_a9n19661_800.jpg",
+      "qty": 8
+    },
+    {
+      "id": "DKA-NDB-A-DC01",
+      "art": "NDB-A-DC01-1V1-WH",
+      "category": "Электроника",
+      "goods_type": "Системы умного дома",
+      "product_type": "Дверные звонки",
+      "title": "Звонок беспроводной Navigator NDB-A-DC01 36 мелодий 100 м",
+      "price": 769,
+      "image_filename": "zvonok_navigator.jpg",
+      "qty": 147
+    }
+  ]
+}
