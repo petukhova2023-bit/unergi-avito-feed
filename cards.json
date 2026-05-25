@@ -17,7 +17,8 @@
       "price": 89,
       "image_filename": "rozetka_vega_800.png",
       "qty": 961,
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-zeta44409",
@@ -27,7 +28,8 @@
       "price": 299,
       "image_filename": "metallorukav_800.jpg",
       "qty": 360,
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-NG3104",
@@ -37,7 +39,8 @@
       "price": 459,
       "image_filename": "soedinitel_604.jpg",
       "qty": 180,
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-MAD10-2-016-C-030",
@@ -47,7 +50,8 @@
       "price": 990,
       "image_filename": "difavtomat_600.jpg",
       "qty": 246,
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-MKP-V-18-41-G",
@@ -57,7 +61,8 @@
       "price": 749,
       "image_filename": "shit_460.jpg",
       "qty": 123,
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-MAD10-2-025-C-030",
@@ -67,7 +72,8 @@
       "price": 1190,
       "image_filename": "difavtomat_25a.jpg",
       "qty": 139,
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-71540",
@@ -77,7 +83,8 @@
       "price": 3190,
       "image_filename": "gofra_40_orange.jpg",
       "qty": 48,
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-CM430645",
@@ -87,7 +94,8 @@
       "price": 2390,
       "image_filename": "anker_m6_800.png",
       "qty": 60,
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-MAD22-6-025-C-30",
@@ -97,7 +105,8 @@
       "price": 1820,
       "image_filename": "avdt34_25a.jpg",
       "qty": 75,
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-A9N19661",
@@ -107,7 +116,8 @@
       "price": 14790,
       "image_filename": "schneider_a9n19661_800.jpg",
       "qty": 8,
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-NDB-A-DC01-1V1-WH",
@@ -117,7 +127,8 @@
       "price": 769,
       "image_filename": "zvonok_navigator.jpg",
       "qty": 147,
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-MAD10-2-063-C-100",
@@ -164,7 +175,8 @@
         ]
       ],
       "image_filename": "MAD10-2-063-C-100.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-DA32-32-30-pro",
@@ -212,7 +224,8 @@
         ]
       ],
       "image_filename": "DA32-32-30-pro.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-00304",
@@ -258,7 +271,8 @@
         ]
       ],
       "image_filename": "00304.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-16056DEK",
@@ -304,7 +318,8 @@
         ]
       ],
       "image_filename": "16056DEK.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-BLNRA010111",
@@ -349,7 +364,8 @@
         ]
       ],
       "image_filename": "BLNRA010111.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-MDV10-2-063-100",
@@ -396,7 +412,8 @@
         ]
       ],
       "image_filename": "MDV10-2-063-100.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-UNIB1L-63H-C20A-3P-N",
@@ -443,7 +460,7 @@
       ],
       "image_filename": "UNIB1L-63H_C20A_3P_N.jpg",
       "publish": false,
-      "_skip_reason": "бренд UNERGI — на Авито не выставляем по решению владельца"
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-UNIB1L-63H-C25A-3P-N",
@@ -490,7 +507,7 @@
       ],
       "image_filename": "UNIB1L-63H_C25A_3P_N.jpg",
       "publish": false,
-      "_skip_reason": "бренд UNERGI — на Авито не выставляем по решению владельца"
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-UNIB1L-63H-C32A-3P-N",
@@ -537,7 +554,7 @@
       ],
       "image_filename": "UNIB1L-63H_C32A_3P_N.jpg",
       "publish": false,
-      "_skip_reason": "бренд UNERGI — на Авито не выставляем по решению владельца"
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-DA32-40-30-pro",
@@ -584,7 +601,8 @@
         ]
       ],
       "image_filename": "DA32-40-30-pro.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-UNIB1L-63H-C16A-3P-N",
@@ -631,7 +649,7 @@
       ],
       "image_filename": "UNIB1L-63H_C16A_3P_N.jpg",
       "publish": false,
-      "_skip_reason": "бренд UNERGI — на Авито не выставляем по решению владельца"
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-ERMP12-K03-16-54-EC",
@@ -677,7 +695,8 @@
         ]
       ],
       "image_filename": "ERMP12-K03-16-54-EC.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-077623",
@@ -723,7 +742,8 @@
         ]
       ],
       "image_filename": "077623.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-UNIB1-63L-C32A-3P",
@@ -770,7 +790,7 @@
       ],
       "image_filename": "UNIB1-63L_C32A_3P.jpg",
       "publish": false,
-      "_skip_reason": "бренд UNERGI — на Авито не выставляем по решению владельца"
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-UNIB1-63L-C40A-3P",
@@ -817,7 +837,7 @@
       ],
       "image_filename": "UNIB1-63L_C40A_3P.jpg",
       "publish": false,
-      "_skip_reason": "бренд UNERGI — на Авито не выставляем по решению владельца"
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-UNIB1-63L-C50A-3P",
@@ -863,7 +883,7 @@
       ],
       "image_filename": "UNIB1-63L_C50A_3P.jpg",
       "publish": false,
-      "_skip_reason": "бренд UNERGI — на Авито не выставляем по решению владельца"
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-UNIB1-63L-C32A-1P",
@@ -912,7 +932,7 @@
       "image_filename": "UNIB1-63L_C32A_1P.jpg",
       "publish": false,
       "photo_is_illustration": true,
-      "_skip_reason": "бренд UNERGI — на Авито не выставляем по решению владельца"
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-UNIB1-63L-C40A-1P",
@@ -960,7 +980,7 @@
       "image_filename": "UNIB1-63L_C32A_1P.jpg",
       "publish": false,
       "photo_is_illustration": true,
-      "_skip_reason": "бренд UNERGI — на Авито не выставляем по решению владельца"
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-UNIB1-63L-C50A-1P",
@@ -1007,7 +1027,7 @@
       ],
       "image_filename": "UNIB1-63L_C50A_1P.jpg",
       "publish": false,
-      "_skip_reason": "бренд UNERGI — на Авито не выставляем по решению владельца"
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-UNIB1-63L-C63A-1P",
@@ -1054,7 +1074,7 @@
       ],
       "image_filename": "UNIB1-63L_C63A_1P.jpg",
       "publish": false,
-      "_skip_reason": "бренд UNERGI — на Авито не выставляем по решению владельца"
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-MAD10-2-063-C-300",
@@ -1101,7 +1121,8 @@
         ]
       ],
       "image_filename": "MAD10-2-063-C-300.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-BML1007",
@@ -1145,7 +1166,8 @@
         ]
       ],
       "image_filename": "BML1007.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-DA32-16-30-pro",
@@ -1192,7 +1214,8 @@
         ]
       ],
       "image_filename": "DA32-16-30-pro.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-mb10-v-5r",
@@ -1237,7 +1260,8 @@
         ]
       ],
       "image_filename": "mb10-v-5r.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-mb10-v-6r",
@@ -1283,7 +1307,8 @@
         ]
       ],
       "image_filename": "mb10-v-6r.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-36024K",
@@ -1329,7 +1354,8 @@
         ]
       ],
       "image_filename": "36024K.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-UNIB1-63L-C63A-3P",
@@ -1376,7 +1402,7 @@
       ],
       "image_filename": "UNIB1-63L_C63A_3P.jpg",
       "publish": false,
-      "_skip_reason": "бренд UNERGI — на Авито не выставляем по решению владельца"
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-KKT53-150-230-10",
@@ -1423,7 +1449,8 @@
         ]
       ],
       "image_filename": "ККТ53-150-230-10.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-RA16-112B-BI",
@@ -1468,7 +1495,8 @@
         ]
       ],
       "image_filename": "RA16-112B-BI.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-UNIB1-63L-C10A-3P",
@@ -1515,7 +1543,7 @@
       ],
       "image_filename": "UNIB1-63L_C10A_3P.jpg",
       "publish": false,
-      "_skip_reason": "бренд UNERGI — на Авито не выставляем по решению владельца"
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-UNIB1-63L-C20A-3P",
@@ -1560,7 +1588,7 @@
       ],
       "image_filename": "UNIB1-63L_C20A_3P.jpg",
       "publish": false,
-      "_skip_reason": "бренд UNERGI — на Авито не выставляем по решению владельца"
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-UNIB1-63L-C25A-3P",
@@ -1606,7 +1634,7 @@
       ],
       "image_filename": "UNIB1-63L_C25A_3P.jpg",
       "publish": false,
-      "_skip_reason": "бренд UNERGI — на Авито не выставляем по решению владельца"
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-UNIB1-63L-C6A-3P",
@@ -1652,7 +1680,7 @@
       ],
       "image_filename": "UNIB1-63L_C6A_3P.jpg",
       "publish": false,
-      "_skip_reason": "бренд UNERGI — на Авито не выставляем по решению владельца"
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-30315",
@@ -1697,7 +1725,8 @@
         ]
       ],
       "image_filename": "30315.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-UNIB1-63L-C10A-1P",
@@ -1744,7 +1773,7 @@
       ],
       "image_filename": "UNIB1-63L_C10A_1P.jpg",
       "publish": false,
-      "_skip_reason": "бренд UNERGI — на Авито не выставляем по решению владельца"
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-UNIB1-63L-C20A-1P",
@@ -1792,7 +1821,7 @@
       "image_filename": "UNIB1-63L_C32A_1P.jpg",
       "publish": false,
       "photo_is_illustration": true,
-      "_skip_reason": "бренд UNERGI — на Авито не выставляем по решению владельца"
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-UNIB1-63L-C25A-1P",
@@ -1838,7 +1867,7 @@
       ],
       "image_filename": "UNIB1-63L_C25A_1P.jpg",
       "publish": false,
-      "_skip_reason": "бренд UNERGI — на Авито не выставляем по решению владельца"
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-UNIB1-63L-C6A-1P",
@@ -1885,7 +1914,7 @@
       ],
       "image_filename": "UNIB1-63L_C6A_1P.jpg",
       "publish": false,
-      "_skip_reason": "бренд UNERGI — на Авито не выставляем по решению владельца"
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-UNIB1-63L-C16A-1P",
@@ -1932,7 +1961,7 @@
       ],
       "image_filename": "UNIB1-63L_C16A_1P.jpg",
       "publish": false,
-      "_skip_reason": "бренд UNERGI — на Авито не выставляем по решению владельца"
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-UNIB1-63L-C16A-3P",
@@ -1979,7 +2008,7 @@
       ],
       "image_filename": "UNIB1-63L_C16A_3P.jpg",
       "publish": false,
-      "_skip_reason": "бренд UNERGI — на Авито не выставляем по решению владельца"
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-121916",
@@ -2025,7 +2054,8 @@
         ]
       ],
       "image_filename": "121916.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-zeta42415",
@@ -2071,7 +2101,8 @@
         ]
       ],
       "image_filename": "zeta42415.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-UNIG2-20A-1P",
@@ -2118,7 +2149,7 @@
       ],
       "image_filename": "UNIG2-20A_1P.jpg",
       "publish": false,
-      "_skip_reason": "бренд UNERGI — на Авито не выставляем по решению владельца"
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-UNIG2-40A-1P",
@@ -2166,7 +2197,7 @@
       ],
       "image_filename": "UNIG2-40A_1P.jpg",
       "publish": false,
-      "_skip_reason": "бренд UNERGI — на Авито не выставляем по решению владельца"
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-UNIG2-63A-1P",
@@ -2212,7 +2243,7 @@
       ],
       "image_filename": "UNIG2-63A_1P.jpg",
       "publish": false,
-      "_skip_reason": "бренд UNERGI — на Авито не выставляем по решению владельца"
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-UNIG2-25A-3P",
@@ -2257,7 +2288,7 @@
       ],
       "image_filename": "UNIG2-25A_3P.jpg",
       "publish": false,
-      "_skip_reason": "бренд UNERGI — на Авито не выставляем по решению владельца"
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-UNIG2-32A-3P",
@@ -2304,7 +2335,7 @@
       ],
       "image_filename": "UNIG2-32A_3P.jpg",
       "publish": false,
-      "_skip_reason": "бренд UNERGI — на Авито не выставляем по решению владельца"
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-UNIG2-40A-3P",
@@ -2350,7 +2381,7 @@
       ],
       "image_filename": "UNIG2-40A_3P.jpg",
       "publish": false,
-      "_skip_reason": "бренд UNERGI — на Авито не выставляем по решению владельца"
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-ERK14-K01-16-DM",
@@ -2396,7 +2427,8 @@
         ]
       ],
       "image_filename": "ERK14-K01-16-DM.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-DP1201",
@@ -2442,7 +2474,8 @@
         ]
       ],
       "image_filename": "DP1201.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-36003K",
@@ -2486,7 +2519,8 @@
         ]
       ],
       "image_filename": "36003K.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-EXIT-SS-102-LED",
@@ -2532,7 +2566,8 @@
         ]
       ],
       "image_filename": "EXIT-SS-102-LED.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-UNIG2-63A-3P",
@@ -2578,7 +2613,7 @@
       ],
       "image_filename": "UNIG2-63A_3P.jpg",
       "publish": false,
-      "_skip_reason": "бренд UNERGI — на Авито не выставляем по решению владельца"
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-UZDP-S1-25A-1-2-000-10-IST-001",
@@ -2622,7 +2657,8 @@
         ]
       ],
       "image_filename": "УЗДП-С1-25А-1-2-000-10-ИСТ-001.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-LC1360K",
@@ -2667,7 +2703,8 @@
         ]
       ],
       "image_filename": "LC1360K.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-01050A",
@@ -2712,7 +2749,8 @@
         ]
       ],
       "image_filename": "01050A.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-17011DEK",
@@ -2758,7 +2796,8 @@
         ]
       ],
       "image_filename": "17011DEK.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-37114K",
@@ -2803,7 +2842,8 @@
         ]
       ],
       "image_filename": "37114К.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-22150DEK",
@@ -2848,7 +2888,8 @@
         ]
       ],
       "image_filename": "22150DEK.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-MAD10-2-040-C-030",
@@ -2895,7 +2936,8 @@
         ]
       ],
       "image_filename": "MAD10-2-040-C-030.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-71516",
@@ -2942,7 +2984,8 @@
         ]
       ],
       "image_filename": "71516.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-SKK-40D-RSU4-075-K-01",
@@ -2986,7 +3029,8 @@
         ]
       ],
       "image_filename": "СКК-40D-RSU4-075-K-01.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-TKE-THS-10-1-B-50",
@@ -3033,7 +3077,8 @@
         ]
       ],
       "image_filename": "TKE-THS-10-1-B_50.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-LV429387",
@@ -3077,7 +3122,8 @@
         ]
       ],
       "image_filename": "LV429387.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-UNIB1L-63H-C20A-1P-N",
@@ -3125,7 +3171,7 @@
       ],
       "image_filename": "UNIB1L-63H_C20A_1P_N.jpg",
       "publish": false,
-      "_skip_reason": "бренд UNERGI — на Авито не выставляем по решению владельца"
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-UNIB1L-63H-C25A-1P-N",
@@ -3172,7 +3218,7 @@
       ],
       "image_filename": "UNIB1L-63H_C25A_1P_N.jpg",
       "publish": false,
-      "_skip_reason": "бренд UNERGI — на Авито не выставляем по решению владельца"
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-UNIB1L-63H-C32A-1P-N",
@@ -3218,7 +3264,7 @@
       ],
       "image_filename": "UNIB1L-63H_C32A_1P_N.jpg",
       "publish": false,
-      "_skip_reason": "бренд UNERGI — на Авито не выставляем по решению владельца"
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-MAD22-6-032-C-30",
@@ -3265,7 +3311,8 @@
         ]
       ],
       "image_filename": "MAD22-6-032-C-30.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-UNIB1L-63H-C16A-1P-N",
@@ -3312,7 +3359,7 @@
       ],
       "image_filename": "UNIB1L-63H_C16A_1P_N.jpg",
       "publish": false,
-      "_skip_reason": "бренд UNERGI — на Авито не выставляем по решению владельца"
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-FC37306-4099906",
@@ -3356,7 +3403,8 @@
         ]
       ],
       "image_filename": "FC37306_4099906.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-uerms-01vs",
@@ -3400,7 +3448,8 @@
         ]
       ],
       "image_filename": "uerms-01vs.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-TKE-TML-185-16-21",
@@ -3446,7 +3495,8 @@
         ]
       ],
       "image_filename": "TKE-TML-185-16-21.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-TKE-THS-6-1-B-50",
@@ -3492,7 +3542,8 @@
         ]
       ],
       "image_filename": "TKE-THS-6-1-B_50.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-22152DEK",
@@ -3537,7 +3588,8 @@
         ]
       ],
       "image_filename": "22152DEK.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-DA32-06-30-pro",
@@ -3583,7 +3635,8 @@
         ]
       ],
       "image_filename": "DA32-06-30-pro.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-ORT-A1-ACDC12-240V",
@@ -3629,7 +3682,8 @@
         ]
       ],
       "image_filename": "ORT-A1-ACDC12-240V.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-4401002",
@@ -3675,7 +3729,8 @@
         ]
       ],
       "image_filename": "4401002.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-09-5503",
@@ -3719,7 +3774,8 @@
         ]
       ],
       "image_filename": "09-5503.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-6070R-22",
@@ -3764,7 +3820,8 @@
         ]
       ],
       "image_filename": "6070R-22.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-MAD10-2-016-B-030",
@@ -3811,7 +3868,8 @@
         ]
       ],
       "image_filename": "MAD10-2-016-B-030.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-fusb-35",
@@ -3855,7 +3913,8 @@
         ]
       ],
       "image_filename": "fusb-35.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-NE5503",
@@ -3899,7 +3958,8 @@
         ]
       ],
       "image_filename": "NE5503.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-tut-30-g",
@@ -3945,7 +4005,8 @@
         ]
       ],
       "image_filename": "tut-30-g.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-ND2104",
@@ -3988,7 +4049,8 @@
         ]
       ],
       "image_filename": "ND2104.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-YARP-4",
@@ -4034,7 +4096,8 @@
         ]
       ],
       "image_filename": "ЯРП-4.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-FSB10404",
@@ -4079,7 +4142,8 @@
         ]
       ],
       "image_filename": "FSB10404.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-DA32-50-30-4P-pro",
@@ -4126,7 +4190,8 @@
         ]
       ],
       "image_filename": "DA32-50-30-4P-pro.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-35260HDZ",
@@ -4172,7 +4237,8 @@
         ]
       ],
       "image_filename": "35260HDZ.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-6071R-027N",
@@ -4218,7 +4284,8 @@
         ]
       ],
       "image_filename": "6071R-027N.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-EZ9D34616",
@@ -4265,7 +4332,8 @@
         ]
       ],
       "image_filename": "EZ9D34616.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-9323",
@@ -4311,7 +4379,8 @@
         ]
       ],
       "image_filename": "9323.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-103476",
@@ -4358,7 +4427,8 @@
         ]
       ],
       "image_filename": "103476.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-BSD2105",
@@ -4401,7 +4471,8 @@
         ]
       ],
       "image_filename": "BSD2105.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-elcb-2-25-30e-sim",
@@ -4447,7 +4518,8 @@
         ]
       ],
       "image_filename": "elcb-2-25-30e-sim.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-BPM2906",
@@ -4491,7 +4563,8 @@
         ]
       ],
       "image_filename": "BPM2906.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-pb40-v-24",
@@ -4537,7 +4610,8 @@
         ]
       ],
       "image_filename": "pb40-v-24.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-ERV20-K01-10-DM",
@@ -4584,7 +4658,8 @@
         ]
       ],
       "image_filename": "ERV20-K01-10-DM.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-38004",
@@ -4629,7 +4704,8 @@
         ]
       ],
       "image_filename": "38004.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-10132",
@@ -4673,7 +4749,8 @@
         ]
       ],
       "image_filename": "10132.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-KSE15U-23-72",
@@ -4718,7 +4795,8 @@
         ]
       ],
       "image_filename": "KSE15U-23-72.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-CLP1M-A-B-12-100",
@@ -4762,7 +4840,8 @@
         ]
       ],
       "image_filename": "CLP1M-A-B-12-100.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-UNP22-120-15-14",
@@ -4808,7 +4887,8 @@
         ]
       ],
       "image_filename": "UNP22-120-15-14.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-BPM4107",
@@ -4852,7 +4932,8 @@
         ]
       ],
       "image_filename": "BPM4107.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-52646",
@@ -4899,7 +4980,8 @@
         ]
       ],
       "image_filename": "52646.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-ITT10-3-05-0150",
@@ -4945,7 +5027,8 @@
         ]
       ],
       "image_filename": "ITT10-3-05-0150.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-35526HDZ",
@@ -4989,7 +5072,8 @@
         ]
       ],
       "image_filename": "35526HDZ.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-ERV16-K01-16-DM",
@@ -5035,7 +5119,8 @@
         ]
       ],
       "image_filename": "ERV16-K01-16-DM.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-fusb-33-0",
@@ -5077,7 +5162,8 @@
         ]
       ],
       "image_filename": "fusb-33-0.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-TKE-TAM-70-10-12",
@@ -5123,7 +5209,8 @@
         ]
       ],
       "image_filename": "TKE-TAM-70-10-12.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-202001000842100K",
@@ -5169,7 +5256,8 @@
         ]
       ],
       "image_filename": "202001000842100K.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-92352",
@@ -5215,7 +5303,8 @@
         ]
       ],
       "image_filename": "92352.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-416136",
@@ -5261,7 +5350,8 @@
         ]
       ],
       "image_filename": "416136.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-00888",
@@ -5305,7 +5395,8 @@
         ]
       ],
       "image_filename": "00888.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-BPM4108",
@@ -5349,7 +5440,8 @@
         ]
       ],
       "image_filename": "BPM4108.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-MR-0000750-020",
@@ -5394,7 +5486,8 @@
         ]
       ],
       "image_filename": "МР-0000750-020.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-TKE-TAM-50-10-9",
@@ -5440,7 +5533,8 @@
         ]
       ],
       "image_filename": "TKE-TAM-50-10-9.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-CTG20-32-K41-025I",
@@ -5486,7 +5580,8 @@
         ]
       ],
       "image_filename": "CTG20-32-K41-025I.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-UKO12-100-100-080-K02-54M",
@@ -5531,7 +5626,8 @@
         ]
       ],
       "image_filename": "UKO12-100-100-080-K02-54M.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-CLP1N-050-050",
@@ -5576,7 +5672,8 @@
         ]
       ],
       "image_filename": "CLP1N-050-050.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-CLP1V-050-050",
@@ -5621,7 +5718,8 @@
         ]
       ],
       "image_filename": "CLP1V-050-050.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-CLW10-GEM-PK-150",
@@ -5665,7 +5763,8 @@
         ]
       ],
       "image_filename": "CLW10-GEM-PK-150.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-35303",
@@ -5711,7 +5810,8 @@
         ]
       ],
       "image_filename": "35303.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-38003",
@@ -5755,7 +5855,8 @@
         ]
       ],
       "image_filename": "38003.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-DIS2183237",
@@ -5801,7 +5902,8 @@
         ]
       ],
       "image_filename": "DIS2183237.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-7",
@@ -5846,7 +5948,8 @@
         ]
       ],
       "image_filename": "7.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-CM411034",
@@ -5890,7 +5993,8 @@
         ]
       ],
       "image_filename": "CM411034.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-1755554",
@@ -5934,8 +6038,9 @@
       ],
       "image_filename": "BLNRA010111.jpg",
       "_photo_status": "не найдено автопоиском, требуется ручной подбор",
-      "publish": true,
-      "photo_is_illustration": true
+      "publish": false,
+      "photo_is_illustration": true,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-zeta41616",
@@ -5979,7 +6084,8 @@
         ]
       ],
       "image_filename": "zeta41616.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-50GRPVC20",
@@ -6024,7 +6130,8 @@
         ]
       ],
       "image_filename": "50GRPVC20.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-171",
@@ -6069,7 +6176,8 @@
         ]
       ],
       "image_filename": "171.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-65",
@@ -6114,7 +6222,8 @@
         ]
       ],
       "image_filename": "65.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-91916",
@@ -6160,7 +6269,8 @@
         ]
       ],
       "image_filename": "91916.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-EZ9D34610",
@@ -6207,7 +6317,8 @@
         ]
       ],
       "image_filename": "EZ9D34610.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-BPM2105",
@@ -6251,7 +6362,8 @@
         ]
       ],
       "image_filename": "BPM2105.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-LPC10-1-35-13-VLVVF",
@@ -6295,7 +6407,8 @@
         ]
       ],
       "image_filename": "LPC10-1-35-13-VLVVF.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-MAD22-5-025-B-10",
@@ -6341,7 +6454,8 @@
         ]
       ],
       "image_filename": "MAD22-5-025-B-10.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-3526412",
@@ -6387,7 +6501,8 @@
         ]
       ],
       "image_filename": "3526412.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-SVA10D-EP",
@@ -6433,7 +6548,8 @@
         ]
       ],
       "image_filename": "SVA10D-EP.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-BSD2104",
@@ -6476,7 +6592,8 @@
         ]
       ],
       "image_filename": "BSD2104.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-11CLP1M-N-6",
@@ -6520,7 +6637,8 @@
         ]
       ],
       "image_filename": "11CLP1M-N-6.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-zeta42513",
@@ -6566,7 +6684,8 @@
         ]
       ],
       "image_filename": "zeta42513.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-300-040",
@@ -6609,7 +6728,8 @@
         ]
       ],
       "image_filename": "300-040.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-116824",
@@ -6651,7 +6771,8 @@
         ]
       ],
       "image_filename": "116824.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-YBA10-08-100",
@@ -6697,7 +6818,8 @@
         ]
       ],
       "image_filename": "YBA10-08-100.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-91880",
@@ -6743,7 +6865,8 @@
         ]
       ],
       "image_filename": "91880.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-CM430850",
@@ -6788,7 +6911,8 @@
         ]
       ],
       "image_filename": "CM430850.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-15159DEK",
@@ -6835,7 +6959,8 @@
         ]
       ],
       "image_filename": "15159DEK.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-thermo-no-nc-din",
@@ -6880,7 +7005,8 @@
         ]
       ],
       "image_filename": "thermo-no-nc-din.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-UNP11-095-12-13",
@@ -6926,7 +7052,8 @@
         ]
       ],
       "image_filename": "UNP11-095-12-13.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-BPM4114",
@@ -6970,7 +7097,8 @@
         ]
       ],
       "image_filename": "BPM4114.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-025163",
@@ -7012,7 +7140,8 @@
         ]
       ],
       "image_filename": "025163.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-ZZ-502-008-62",
@@ -7056,7 +7185,8 @@
         ]
       ],
       "image_filename": "ZZ-502-008-62.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-CLM50D-RP-080-20",
@@ -7101,7 +7231,8 @@
         ]
       ],
       "image_filename": "CLM50D-RP-080-20.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-84945",
@@ -7147,7 +7278,8 @@
         ]
       ],
       "image_filename": "84945.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-TKE-TA-150-12-17",
@@ -7192,7 +7324,8 @@
         ]
       ],
       "image_filename": "TKE-TA-150-12-17.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-14080DEK",
@@ -7238,7 +7371,8 @@
         ]
       ],
       "image_filename": "14080DEK.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-57810",
@@ -7284,7 +7418,8 @@
         ]
       ],
       "image_filename": "57810.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-LC8620",
@@ -7329,7 +7464,8 @@
         ]
       ],
       "image_filename": "LC8620.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-BPM2106",
@@ -7373,7 +7509,8 @@
         ]
       ],
       "image_filename": "BPM2106.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-DA63-20-100em-AC",
@@ -7420,7 +7557,8 @@
         ]
       ],
       "image_filename": "DA63-20-100em-AC.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-CLM50D-RP-100-20",
@@ -7465,7 +7603,8 @@
         ]
       ],
       "image_filename": "CLM50D-RP-100-20.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-35522HDZ",
@@ -7511,7 +7650,8 @@
         ]
       ],
       "image_filename": "35522HDZ.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-TKE-TAM-16-8-5-4",
@@ -7557,7 +7697,8 @@
         ]
       ],
       "image_filename": "TKE-TAM-16-8-5_4.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-44564",
@@ -7602,7 +7743,8 @@
         ]
       ],
       "image_filename": "44564.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-PSN52-032-4",
@@ -7648,7 +7790,8 @@
         ]
       ],
       "image_filename": "PSN52-032-4.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-KR1301",
@@ -7692,7 +7835,8 @@
         ]
       ],
       "image_filename": "КР1301.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-50299",
@@ -7737,7 +7881,8 @@
         ]
       ],
       "image_filename": "50299.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-ZZ-502-404-6",
@@ -7783,8 +7928,9 @@
       ],
       "image_filename": "BLNRA010111.jpg",
       "_photo_status": "не найдено автопоиском, требуется ручной подбор",
-      "publish": true,
-      "photo_is_illustration": true
+      "publish": false,
+      "photo_is_illustration": true,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-MAD22-5-010-C-30",
@@ -7831,7 +7977,8 @@
         ]
       ],
       "image_filename": "MAD22-5-010-C-30.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-SSG00500KHDZ",
@@ -7875,7 +8022,8 @@
         ]
       ],
       "image_filename": "SSG00500KHDZ.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-MAD22-5-032-C-30",
@@ -7922,7 +8070,8 @@
         ]
       ],
       "image_filename": "MAD22-5-032-C-30.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-4402691",
@@ -7967,7 +8116,8 @@
         ]
       ],
       "image_filename": "4402691.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-36043",
@@ -8012,7 +8162,8 @@
         ]
       ],
       "image_filename": "36043.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-35524HDZ",
@@ -8058,7 +8209,8 @@
         ]
       ],
       "image_filename": "35524HDZ.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-A9E18034",
@@ -8104,7 +8256,8 @@
         ]
       ],
       "image_filename": "A9E18034.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-15005DEK",
@@ -8150,7 +8303,8 @@
         ]
       ],
       "image_filename": "15005DEK.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-LDPO0-0104-25-40-K01-G",
@@ -8197,7 +8351,8 @@
         ]
       ],
       "image_filename": "LDPO0-0104-25-40-K01-G.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-UDRS-D30-1-K02",
@@ -8244,7 +8399,8 @@
         ]
       ],
       "image_filename": "UDRS-D30-1-K02.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-ps-0242-32-380",
@@ -8290,7 +8446,8 @@
         ]
       ],
       "image_filename": "ps-0242-32-_380.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-CLW10-GEM-PK-150-U3",
@@ -8335,7 +8492,8 @@
         ]
       ],
       "image_filename": "CLW10-GEM-PK-150-U3.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-TRV00210",
@@ -8380,7 +8538,8 @@
         ]
       ],
       "image_filename": "TRV00210.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-BMD1502",
@@ -8425,7 +8584,8 @@
         ]
       ],
       "image_filename": "BMD1502.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-tut-16-g",
@@ -8471,7 +8631,8 @@
         ]
       ],
       "image_filename": "tut-16-g.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-apd3-25-40",
@@ -8517,7 +8678,8 @@
         ]
       ],
       "image_filename": "apd3-25-40.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-PZRU-1-16",
@@ -8563,7 +8725,8 @@
         ]
       ],
       "image_filename": "PZRU-1-16.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-57807",
@@ -8609,7 +8772,8 @@
         ]
       ],
       "image_filename": "57807.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-MD125H-3PC125",
@@ -8656,7 +8820,8 @@
         ]
       ],
       "image_filename": "MD125H-3PC125.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-PAS36N",
@@ -8701,7 +8866,8 @@
         ]
       ],
       "image_filename": "PAS36N.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-MDV10-2-063-300",
@@ -8748,7 +8914,8 @@
         ]
       ],
       "image_filename": "MDV10-2-063-300.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-14083DEK",
@@ -8793,7 +8960,8 @@
         ]
       ],
       "image_filename": "14083DEK.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-PA16-003B",
@@ -8838,7 +9006,8 @@
         ]
       ],
       "image_filename": "PA16-003B.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-14081DEK",
@@ -8884,7 +9053,8 @@
         ]
       ],
       "image_filename": "14081DEK.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-zeta-22113",
@@ -8930,7 +9100,8 @@
         ]
       ],
       "image_filename": "zeta_22113.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-019005",
@@ -8976,7 +9147,8 @@
         ]
       ],
       "image_filename": "019005.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-pb40-v-36",
@@ -9021,7 +9193,8 @@
         ]
       ],
       "image_filename": "pb40-v-36.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-BBC3020",
@@ -9065,7 +9238,8 @@
         ]
       ],
       "image_filename": "BBC3020.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-vs-em03-60-003-032",
@@ -9109,7 +9283,8 @@
         ]
       ],
       "image_filename": "vs-em03-60_003_032.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-22894DEK",
@@ -9153,7 +9328,8 @@
         ]
       ],
       "image_filename": "22894DEK.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-81505",
@@ -9198,7 +9374,8 @@
         ]
       ],
       "image_filename": "81505.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-015110",
@@ -9243,7 +9420,8 @@
         ]
       ],
       "image_filename": "015110.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-LL8020HDZ",
@@ -9289,7 +9467,8 @@
         ]
       ],
       "image_filename": "LL8020HDZ.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-E778",
@@ -9331,8 +9510,9 @@
       ],
       "image_filename": "BLNRA010111.jpg",
       "_photo_status": "не найдено автопоиском, требуется ручной подбор",
-      "publish": true,
-      "photo_is_illustration": true
+      "publish": false,
+      "photo_is_illustration": true,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-BMD1502HDZ",
@@ -9377,7 +9557,8 @@
         ]
       ],
       "image_filename": "BMD1502HDZ.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-LLE-A60-9-230-40-E27",
@@ -9423,7 +9604,8 @@
         ]
       ],
       "image_filename": "LLE-A60-9-230-40-E27.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-BBP4120HDZ",
@@ -9469,7 +9651,8 @@
         ]
       ],
       "image_filename": "BBP4120HDZ.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-BPM2103",
@@ -9514,7 +9697,8 @@
         ]
       ],
       "image_filename": "BPM2103.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-NSYKNM5",
@@ -9560,8 +9744,9 @@
       ],
       "image_filename": "BLNRA010111.jpg",
       "_photo_status": "не найдено автопоиском, требуется ручной подбор",
-      "publish": true,
-      "photo_is_illustration": true
+      "publish": false,
+      "photo_is_illustration": true,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-BPM2903",
@@ -9605,7 +9790,8 @@
         ]
       ],
       "image_filename": "BPM2903.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-14082DEK",
@@ -9651,7 +9837,8 @@
         ]
       ],
       "image_filename": "14082DEK.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-FSK41610",
@@ -9695,7 +9882,8 @@
         ]
       ],
       "image_filename": "FSK41610.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-xb2-ba42",
@@ -9741,7 +9929,8 @@
         ]
       ],
       "image_filename": "xb2-ba42.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-DA63-16-30e",
@@ -9788,7 +9977,8 @@
         ]
       ],
       "image_filename": "DA63-16-30e.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-531210",
@@ -9834,7 +10024,8 @@
         ]
       ],
       "image_filename": "531210.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-MAD22-6-016-C-30",
@@ -9881,7 +10072,8 @@
         ]
       ],
       "image_filename": "MAD22-6-016-C-30.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-EVMP12-K01-10-54-EC",
@@ -9927,7 +10119,8 @@
         ]
       ],
       "image_filename": "EVMP12-K01-10-54-EC.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-ama-801-600",
@@ -9973,7 +10166,8 @@
         ]
       ],
       "image_filename": "ama-801-600.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-36363K",
@@ -10017,7 +10211,8 @@
         ]
       ],
       "image_filename": "36363K.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-tte-a-400-0-5S-tc-a-400-0-5S",
@@ -10063,7 +10258,8 @@
         ]
       ],
       "image_filename": "tte-a-400-0_5S_tc-a-400-0_5S.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-37501",
@@ -10107,7 +10303,8 @@
         ]
       ],
       "image_filename": "37501.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-CM471065",
@@ -10153,7 +10350,8 @@
         ]
       ],
       "image_filename": "CM471065.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-ps-015-16-380",
@@ -10198,7 +10396,8 @@
         ]
       ],
       "image_filename": "ps-015-16-380.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-TKE-SMK-25-26-2",
@@ -10242,7 +10441,8 @@
         ]
       ],
       "image_filename": "TKE-SMK-25-26-2.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-82946",
@@ -10288,7 +10488,8 @@
         ]
       ],
       "image_filename": "82946.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-249158",
@@ -10331,7 +10532,8 @@
         ]
       ],
       "image_filename": "249158.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-BBT20-BAF45-3-22-67-K04",
@@ -10377,7 +10579,8 @@
         ]
       ],
       "image_filename": "BBT20-BAF45-3-22-67-K04.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-BBT20-BAF35-3-22-67-K06",
@@ -10423,7 +10626,8 @@
         ]
       ],
       "image_filename": "BBT20-BAF35-3-22-67-K06.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-82955",
@@ -10469,7 +10673,8 @@
         ]
       ],
       "image_filename": "82955.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-LL8040",
@@ -10514,7 +10719,8 @@
         ]
       ],
       "image_filename": "LL8040.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-EZ9F56340",
@@ -10561,7 +10767,8 @@
         ]
       ],
       "image_filename": "EZ9F56340.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-36340K",
@@ -10606,7 +10813,8 @@
         ]
       ],
       "image_filename": "36340K.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-BBT30-11-3-22-K06",
@@ -10652,7 +10860,8 @@
         ]
       ],
       "image_filename": "BBT30-11-3-22-K06.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-BBT30-11-3-22-K04",
@@ -10698,7 +10907,8 @@
         ]
       ],
       "image_filename": "BBT30-11-3-22-K04.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-BBT60-BA-K06",
@@ -10744,7 +10954,8 @@
         ]
       ],
       "image_filename": "BBT60-BA-K06.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-UKM12-070-072-000-O-K02",
@@ -10790,7 +11001,8 @@
         ]
       ],
       "image_filename": "UKM12-070-072-000-O-K02.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-40010",
@@ -10836,8 +11048,9 @@
       ],
       "image_filename": "BLNRA010111.jpg",
       "_photo_status": "не найдено автопоиском, требуется ручной подбор",
-      "publish": true,
-      "photo_is_illustration": true
+      "publish": false,
+      "photo_is_illustration": true,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-BBP2150HDZ",
@@ -10882,7 +11095,8 @@
         ]
       ],
       "image_filename": "BBP2150HDZ.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-91877",
@@ -10927,7 +11141,8 @@
         ]
       ],
       "image_filename": "91877.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-YON-MSD-3P40A",
@@ -10973,7 +11188,8 @@
         ]
       ],
       "image_filename": "YON_MSD_3P40A.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-BSW30-11X2-3-24-2-K02",
@@ -11016,7 +11232,8 @@
         ]
       ],
       "image_filename": "BSW30-11X2-3-24-2-K02.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-tte-40-400-0-5S",
@@ -11062,7 +11279,8 @@
         ]
       ],
       "image_filename": "tte-40-400-0_5S.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-50352",
@@ -11108,7 +11326,8 @@
         ]
       ],
       "image_filename": "50352.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-00000000089",
@@ -11151,7 +11370,8 @@
         ]
       ],
       "image_filename": "00000000089.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-36002K",
@@ -11197,7 +11417,8 @@
         ]
       ],
       "image_filename": "36002K.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-DA2-06-30-pro",
@@ -11244,7 +11465,8 @@
         ]
       ],
       "image_filename": "DA2-06-30-pro.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-CLP1N-080-400",
@@ -11289,7 +11511,8 @@
         ]
       ],
       "image_filename": "CLP1N-080-400.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-DA2-25-30-pro",
@@ -11336,7 +11559,8 @@
         ]
       ],
       "image_filename": "DA2-25-30-pro.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-70031",
@@ -11381,8 +11605,9 @@
       ],
       "image_filename": "BLNRA010111.jpg",
       "_photo_status": "не найдено автопоиском, требуется ручной подбор",
-      "publish": true,
-      "photo_is_illustration": true
+      "publish": false,
+      "photo_is_illustration": true,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-RS20-3-OB",
@@ -11428,7 +11653,8 @@
         ]
       ],
       "image_filename": "РС20-3-ОБ.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-UNN-1D",
@@ -11475,7 +11701,8 @@
         ]
       ],
       "image_filename": "УНН-1Д.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-14053DEK",
@@ -11522,7 +11749,8 @@
         ]
       ],
       "image_filename": "14053DEK.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-LDKU0D-CR-48-0250-33-K01",
@@ -11566,7 +11794,8 @@
         ]
       ],
       "image_filename": "LDKU0D-CR-48-0250-33-K01.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-BBG30-AEA-K05",
@@ -11612,7 +11841,8 @@
         ]
       ],
       "image_filename": "BBG30-AEA-K05.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-LP1000",
@@ -11656,7 +11886,8 @@
         ]
       ],
       "image_filename": "LP1000.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-LL-T8-10-230-65-G13-G",
@@ -11702,7 +11933,8 @@
         ]
       ],
       "image_filename": "LL-T8-10-230-65-G13-G.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-XB5AA31",
@@ -11748,7 +11980,8 @@
         ]
       ],
       "image_filename": "XB5AA31.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-166",
@@ -11791,7 +12024,8 @@
         ]
       ],
       "image_filename": "166.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-15003DEK",
@@ -11838,7 +12072,8 @@
         ]
       ],
       "image_filename": "15003DEK.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-36865K",
@@ -11884,7 +12119,8 @@
         ]
       ],
       "image_filename": "36865K.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-AR-M10N-1-B010",
@@ -11930,7 +12166,8 @@
         ]
       ],
       "image_filename": "AR-M10N-1-B010.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-ps-415-16-380",
@@ -11974,7 +12211,8 @@
         ]
       ],
       "image_filename": "ps-415-16-380.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-91940",
@@ -12020,7 +12258,8 @@
         ]
       ],
       "image_filename": "91940.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-36480HDZ",
@@ -12063,7 +12302,8 @@
         ]
       ],
       "image_filename": "36480HDZ.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-UNN10-10-12",
@@ -12108,7 +12348,8 @@
         ]
       ],
       "image_filename": "UNN10-10-12.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-BBP4150HDZ",
@@ -12154,7 +12395,8 @@
         ]
       ],
       "image_filename": "BBP4150HDZ.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-658",
@@ -12200,7 +12442,8 @@
         ]
       ],
       "image_filename": "658.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-36744",
@@ -12246,7 +12489,8 @@
         ]
       ],
       "image_filename": "36744.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-PKE-222-1-1K-S-Gr",
@@ -12291,7 +12535,8 @@
         ]
       ],
       "image_filename": "ПКЕ-222_1_1К_С_Гр.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-RS16-004-B",
@@ -12337,7 +12582,8 @@
         ]
       ],
       "image_filename": "RS16-004-B.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-UDRS-D20-1-K07",
@@ -12383,7 +12629,8 @@
         ]
       ],
       "image_filename": "UDRS-D20-1-K07.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-XB5AA42",
@@ -12429,7 +12676,8 @@
         ]
       ],
       "image_filename": "XB5AA42.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-LG8200",
@@ -12474,7 +12722,8 @@
         ]
       ],
       "image_filename": "LG8200.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-57551",
@@ -12519,7 +12768,8 @@
         ]
       ],
       "image_filename": "57551.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-ETO54487",
@@ -12565,7 +12815,8 @@
         ]
       ],
       "image_filename": "ETO54487.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-160911",
@@ -12610,7 +12861,8 @@
         ]
       ],
       "image_filename": "160911.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-EVK10-K01-10-DM",
@@ -12656,7 +12908,8 @@
         ]
       ],
       "image_filename": "EVK10-K01-10-DM.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-A9R41440",
@@ -12703,7 +12956,8 @@
         ]
       ],
       "image_filename": "A9R41440.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-EZ9D34625",
@@ -12750,7 +13004,8 @@
         ]
       ],
       "image_filename": "EZ9D34625.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-ATN000100",
@@ -12795,7 +13050,8 @@
         ]
       ],
       "image_filename": "ATN000100.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-BBP4140HDZ",
@@ -12840,7 +13096,8 @@
         ]
       ],
       "image_filename": "BBP4140HDZ.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-BMZ1540ZL",
@@ -12885,7 +13142,8 @@
         ]
       ],
       "image_filename": "BMZ1540ZL.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-EVMP10-K01-10-54-EC",
@@ -12931,7 +13189,8 @@
         ]
       ],
       "image_filename": "EVMP10-K01-10-54-EC.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-18057DEK",
@@ -12977,7 +13236,8 @@
         ]
       ],
       "image_filename": "18057DEK.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-00536",
@@ -13021,7 +13281,8 @@
         ]
       ],
       "image_filename": "00536.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-49-5004",
@@ -13067,7 +13328,8 @@
         ]
       ],
       "image_filename": "49-5004.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-35264",
@@ -13114,7 +13376,8 @@
         ]
       ],
       "image_filename": "35264.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-MVA31D-RN-1",
@@ -13159,7 +13422,8 @@
         ]
       ],
       "image_filename": "MVA31D-RN-1.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-cpb-102-w",
@@ -13202,7 +13466,8 @@
         ]
       ],
       "image_filename": "cpb-102-w.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-76482R",
@@ -13247,7 +13512,8 @@
         ]
       ],
       "image_filename": "76482R.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-45238",
@@ -13292,7 +13558,8 @@
         ]
       ],
       "image_filename": "45238.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-tut-10-g",
@@ -13338,7 +13605,8 @@
         ]
       ],
       "image_filename": "tut-10-g.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-672581",
@@ -13381,7 +13649,8 @@
         ]
       ],
       "image_filename": "672581.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-SQ1403-0026",
@@ -13425,7 +13694,8 @@
         ]
       ],
       "image_filename": "SQ1403-0026.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-27020-2",
@@ -13471,7 +13741,8 @@
         ]
       ],
       "image_filename": "27020-2.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-MAD10-4-016-C-030",
@@ -13518,7 +13789,8 @@
         ]
       ],
       "image_filename": "MAD10-4-016-C-030.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-CM081040",
@@ -13562,7 +13834,8 @@
         ]
       ],
       "image_filename": "CM081040.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-16011DEK",
@@ -13609,7 +13882,8 @@
         ]
       ],
       "image_filename": "16011DEK.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-CLP10-050-200-3",
@@ -13656,7 +13930,8 @@
         ]
       ],
       "image_filename": "CLP10-050-200-3.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-81987",
@@ -13702,7 +13977,8 @@
         ]
       ],
       "image_filename": "81987.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-pbn-ae",
@@ -13747,7 +14023,8 @@
         ]
       ],
       "image_filename": "pbn-ae.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-MKK11-20-20",
@@ -13793,7 +14070,8 @@
         ]
       ],
       "image_filename": "MKK11-20-20.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-MKP12-N-24-40-10",
@@ -13838,7 +14116,8 @@
         ]
       ],
       "image_filename": "MKP12-N-24-40-10.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-SQ1403-0028",
@@ -13883,7 +14162,8 @@
         ]
       ],
       "image_filename": "SQ1403-0028.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-A9A15151",
@@ -13928,7 +14208,8 @@
         ]
       ],
       "image_filename": "А9А15151.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-MVA01D-RN",
@@ -13974,7 +14255,8 @@
         ]
       ],
       "image_filename": "MVA01D-RN.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-YCE-HC-030-20",
@@ -14019,7 +14301,8 @@
         ]
       ],
       "image_filename": "YCE-HC-030-20.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-KV-V10-10-44-K01",
@@ -14065,7 +14348,8 @@
         ]
       ],
       "image_filename": "KV-V10-10-44-K01.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-672583",
@@ -14108,7 +14392,8 @@
         ]
       ],
       "image_filename": "672583.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-SQ0604-0016",
@@ -14155,7 +14440,8 @@
         ]
       ],
       "image_filename": "SQ0604-0016.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-36664",
@@ -14200,7 +14486,8 @@
         ]
       ],
       "image_filename": "36664.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-CM410831",
@@ -14242,7 +14529,8 @@
         ]
       ],
       "image_filename": "CM410831.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-12601581",
@@ -14286,7 +14574,8 @@
         ]
       ],
       "image_filename": "12601581.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-25047DEK",
@@ -14332,7 +14621,8 @@
         ]
       ],
       "image_filename": "25047DEK.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-00877",
@@ -14376,7 +14666,8 @@
         ]
       ],
       "image_filename": "00877.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-pa-1-1",
@@ -14420,7 +14711,8 @@
         ]
       ],
       "image_filename": "pa-1-1.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-ps-413-16-220",
@@ -14464,7 +14756,8 @@
         ]
       ],
       "image_filename": "ps-413-16-220.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-UNN10-06-12",
@@ -14508,7 +14801,8 @@
         ]
       ],
       "image_filename": "UNN10-06-12.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-UDRS-D10-1-K07",
@@ -14554,7 +14848,8 @@
         ]
       ],
       "image_filename": "UDRS-D10-1-K07.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-249252",
@@ -14601,7 +14896,8 @@
         ]
       ],
       "image_filename": "249252.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-00887",
@@ -14646,7 +14942,8 @@
         ]
       ],
       "image_filename": "00887.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-YON-MD63-P-1",
@@ -14692,7 +14989,8 @@
         ]
       ],
       "image_filename": "YON_MD63_P-1.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-CLW10-GEM-PK-250",
@@ -14737,7 +15035,8 @@
         ]
       ],
       "image_filename": "CLW10-GEM-PK-250.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-SM240800",
@@ -14782,7 +15081,8 @@
         ]
       ],
       "image_filename": "СМ240800.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-MAD10-2-020-C-030",
@@ -14829,7 +15129,8 @@
         ]
       ],
       "image_filename": "MAD10-2-020-C-030.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-4690612010007",
@@ -14876,8 +15177,9 @@
       ],
       "image_filename": "BLNRA010111.jpg",
       "_photo_status": "не найдено автопоиском, требуется ручной подбор",
-      "publish": true,
-      "photo_is_illustration": true
+      "publish": false,
+      "photo_is_illustration": true,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-38025K",
@@ -14921,7 +15223,8 @@
         ]
       ],
       "image_filename": "38025K.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-AR-M10N-1-C010",
@@ -14967,7 +15270,8 @@
         ]
       ],
       "image_filename": "AR-M10N-1-C010.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-KU1301",
@@ -15009,7 +15313,8 @@
         ]
       ],
       "image_filename": "КУ1301.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-15308DEK",
@@ -15055,7 +15360,8 @@
         ]
       ],
       "image_filename": "15308DEK.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-SOT39",
@@ -15099,7 +15405,8 @@
         ]
       ],
       "image_filename": "SOТ39.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-DA2-32-30-pro",
@@ -15146,7 +15453,8 @@
         ]
       ],
       "image_filename": "DA2-32-30-pro.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-61280",
@@ -15190,8 +15498,9 @@
       ],
       "image_filename": "BLNRA010111.jpg",
       "_photo_status": "не найдено автопоиском, требуется ручной подбор",
-      "publish": true,
-      "photo_is_illustration": true
+      "publish": false,
+      "photo_is_illustration": true,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-9192025",
@@ -15237,7 +15546,8 @@
         ]
       ],
       "image_filename": "9192025.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-CM030508",
@@ -15280,7 +15590,8 @@
         ]
       ],
       "image_filename": "CM030508.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-fus-35-250-100",
@@ -15325,7 +15636,8 @@
         ]
       ],
       "image_filename": "fus-35_250_100.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-nhvi-35-0-16",
@@ -15371,7 +15683,8 @@
         ]
       ],
       "image_filename": "nhvi-35_0-16.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-ERMP12-K01-16-54-EC",
@@ -15417,7 +15730,8 @@
         ]
       ],
       "image_filename": "ERMP12-K01-16-54-EC.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-60-0210-9005",
@@ -15462,7 +15776,8 @@
         ]
       ],
       "image_filename": "60-0210-9005.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-61399",
@@ -15506,7 +15821,8 @@
         ]
       ],
       "image_filename": "61399.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-UDRS-D16-1-K07",
@@ -15551,7 +15867,8 @@
         ]
       ],
       "image_filename": "UDRS-D16-1-K07.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-tut-16-j",
@@ -15597,7 +15914,8 @@
         ]
       ],
       "image_filename": "tut-16-j.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-22892DEK",
@@ -15643,7 +15961,8 @@
         ]
       ],
       "image_filename": "22892DEK.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-290397",
@@ -15688,7 +16007,8 @@
         ]
       ],
       "image_filename": "290397.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-CM010610",
@@ -15734,7 +16054,8 @@
         ]
       ],
       "image_filename": "CM010610.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-RA16-133-B",
@@ -15780,7 +16101,8 @@
         ]
       ],
       "image_filename": "RA16-133-B.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-37354",
@@ -15824,7 +16146,8 @@
         ]
       ],
       "image_filename": "37354.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-25-2006",
@@ -15869,7 +16192,8 @@
         ]
       ],
       "image_filename": "25-2006.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-A9K24102",
@@ -15916,7 +16240,8 @@
         ]
       ],
       "image_filename": "A9K24102.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-3205187",
@@ -15961,8 +16286,9 @@
       ],
       "image_filename": "BLNRA010111.jpg",
       "_photo_status": "не найдено автопоиском, требуется ручной подбор",
-      "publish": true,
-      "photo_is_illustration": true
+      "publish": false,
+      "photo_is_illustration": true,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-DSCFA10",
@@ -16005,7 +16331,8 @@
         ]
       ],
       "image_filename": "DSCFA10.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-YBA10-03-030",
@@ -16050,7 +16377,8 @@
         ]
       ],
       "image_filename": "YBA10-03-030.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-MNV15-3-063",
@@ -16097,7 +16425,8 @@
         ]
       ],
       "image_filename": "MNV15-3-063.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-50920",
@@ -16140,7 +16469,8 @@
         ]
       ],
       "image_filename": "50920.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-00833",
@@ -16183,7 +16513,8 @@
         ]
       ],
       "image_filename": "00833.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-114051",
@@ -16229,8 +16560,9 @@
       ],
       "image_filename": "BLNRA010111.jpg",
       "_photo_status": "не найдено автопоиском, требуется ручной подбор",
-      "publish": true,
-      "photo_is_illustration": true
+      "publish": false,
+      "photo_is_illustration": true,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-49381",
@@ -16277,8 +16609,9 @@
       ],
       "image_filename": "BLNRA010111.jpg",
       "_photo_status": "не найдено автопоиском, требуется ручной подбор",
-      "publish": true,
-      "photo_is_illustration": true
+      "publish": false,
+      "photo_is_illustration": true,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-UGN10-016-08-12",
@@ -16325,7 +16658,8 @@
         ]
       ],
       "image_filename": "UGN10-016-08-12.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-50-2102",
@@ -16372,7 +16706,8 @@
         ]
       ],
       "image_filename": "50-2102.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-BKP10-6-K01",
@@ -16416,7 +16751,8 @@
         ]
       ],
       "image_filename": "BKP10-6-K01.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-UDRS-D25-1-K02",
@@ -16461,7 +16797,8 @@
         ]
       ],
       "image_filename": "UDRS-D25-1-K02.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-ERK11-K01-16-DM",
@@ -16506,7 +16843,8 @@
         ]
       ],
       "image_filename": "ERK11-K01-16-DM.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-CTA10D-GIG20-K41-100",
@@ -16551,7 +16889,8 @@
         ]
       ],
       "image_filename": "CTA10D-GIG20-K41-100.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-00883",
@@ -16595,7 +16934,8 @@
         ]
       ],
       "image_filename": "00883.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-18325",
@@ -16639,7 +16979,8 @@
         ]
       ],
       "image_filename": "18325.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-pn-2-05",
@@ -16686,8 +17027,9 @@
       ],
       "image_filename": "BLNRA010111.jpg",
       "_photo_status": "не найдено автопоиском, требуется ручной подбор",
-      "publish": true,
-      "photo_is_illustration": true
+      "publish": false,
+      "photo_is_illustration": true,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-pbn-apbb-o",
@@ -16733,7 +17075,8 @@
         ]
       ],
       "image_filename": "pbn-apbb-o.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-SM100800",
@@ -16777,8 +17120,9 @@
         ]
       ],
       "image_filename": "СМ100800.jpg",
-      "publish": true,
-      "photo_is_illustration": true
+      "publish": false,
+      "photo_is_illustration": true,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-37355",
@@ -16822,7 +17166,8 @@
         ]
       ],
       "image_filename": "37355.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-89016",
@@ -16867,7 +17212,8 @@
         ]
       ],
       "image_filename": "89016.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-UKO21-080-080-040-K41-66",
@@ -16912,7 +17258,8 @@
         ]
       ],
       "image_filename": "UKO21-080-080-040-K41-66.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-SM100800",
@@ -16956,8 +17303,9 @@
         ]
       ],
       "image_filename": "СМ100800.jpg",
-      "publish": true,
-      "photo_is_illustration": true
+      "publish": false,
+      "photo_is_illustration": true,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-CLP1CW-300-1",
@@ -17000,7 +17348,8 @@
         ]
       ],
       "image_filename": "CLP1CW-300-1.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-K-9",
@@ -17046,7 +17395,8 @@
         ]
       ],
       "image_filename": "К-9.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-41450",
@@ -17091,7 +17441,8 @@
         ]
       ],
       "image_filename": "41450.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-141635",
@@ -17136,7 +17487,8 @@
         ]
       ],
       "image_filename": "141635.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-21-2006",
@@ -17182,7 +17534,8 @@
         ]
       ],
       "image_filename": "21-2006.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-ERK70-K01-10-DM-44",
@@ -17229,7 +17582,8 @@
         ]
       ],
       "image_filename": "ERK70-K01-10-DM-44.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-66781",
@@ -17275,7 +17629,8 @@
         ]
       ],
       "image_filename": "66781.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-37352",
@@ -17319,7 +17674,8 @@
         ]
       ],
       "image_filename": "37352.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-RXZL420",
@@ -17362,8 +17718,9 @@
       ],
       "image_filename": "BLNRA010111.jpg",
       "_photo_status": "не найдено автопоиском, требуется ручной подбор",
-      "publish": true,
-      "photo_is_illustration": true
+      "publish": false,
+      "photo_is_illustration": true,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-22",
@@ -17405,7 +17762,8 @@
         ]
       ],
       "image_filename": "22.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-SQ0405-0112",
@@ -17449,7 +17807,8 @@
         ]
       ],
       "image_filename": "SQ0405-0112.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-V1-EM-00432-21A01-6502065",
@@ -17496,7 +17855,8 @@
       ],
       "image_filename": "V1-EM-00432-21A01-6502065.jpg",
       "avito_id": 4107129546,
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-V1-U0-00821-21A00-6501540",
@@ -17544,7 +17904,8 @@
       ],
       "image_filename": "V1-U0-00821-21A00-6501540.jpg",
       "avito_id": 4170909405,
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-V1-U0-00821-21S00-6501540",
@@ -17591,7 +17952,8 @@
       ],
       "image_filename": "V1-U0-00821-21S00-6501540.jpg",
       "avito_id": 4171423301,
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-KK-19040016-048",
@@ -17638,8 +18000,9 @@
       ],
       "image_filename": "BLNRA010111.jpg",
       "_photo_status": "не найдено автопоиском, требуется ручной подбор",
-      "publish": true,
-      "photo_is_illustration": true
+      "publish": false,
+      "photo_is_illustration": true,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-lp-d23-04",
@@ -17683,7 +18046,8 @@
       ],
       "image_filename": "lp-d23_04.jpg",
       "avito_id": 4106691286,
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-CLP10-080-400-3",
@@ -17731,7 +18095,8 @@
       ],
       "image_filename": "CLP10-080-400-3.jpg",
       "avito_id": 7914137211,
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-74659",
@@ -17779,8 +18144,9 @@
       "image_filename": "BLNRA010111.jpg",
       "avito_id": 4107546008,
       "_photo_status": "не найдено автопоиском, требуется ручной подбор",
-      "publish": true,
-      "photo_is_illustration": true
+      "publish": false,
+      "photo_is_illustration": true,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-DIS5706407",
@@ -17826,7 +18192,8 @@
       ],
       "image_filename": "DIS5706407.jpg",
       "avito_id": 7914769084,
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-A9N18365",
@@ -17874,7 +18241,8 @@
       ],
       "image_filename": "A9N18365.jpg",
       "avito_id": 4587406062,
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-2CDA282799R0161",
@@ -17922,7 +18290,8 @@
       ],
       "image_filename": "2CDA282799R0161.jpg",
       "avito_id": 7786233412,
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-DIS137121",
@@ -17966,7 +18335,8 @@
       ],
       "image_filename": "DIS137121.jpg",
       "avito_id": 7402340661,
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-4050300015675",
@@ -18013,7 +18383,8 @@
       ],
       "image_filename": "4050300015675.jpg",
       "avito_id": 4171512159,
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-91525",
@@ -18060,7 +18431,8 @@
       ],
       "image_filename": "91525.jpg",
       "avito_id": 4170931751,
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-50107",
@@ -18108,7 +18480,8 @@
       ],
       "image_filename": "50107.jpg",
       "avito_id": 4106663552,
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-PKS61B",
@@ -18155,7 +18528,8 @@
       ],
       "image_filename": "PKS61B.jpg",
       "avito_id": 7914328207,
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-L-St-48-65-SH3-02-5-0-2405",
@@ -18203,7 +18577,8 @@
       ],
       "image_filename": "L-St_48_65_Ш3_02_5_0_2405.jpg",
       "avito_id": 7914861797,
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-ZP-95M",
@@ -18250,7 +18625,8 @@
       ],
       "image_filename": "ZP_95М.jpg",
       "avito_id": 7338390465,
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-2860000",
@@ -18298,8 +18674,9 @@
       "image_filename": "BLNRA010111.jpg",
       "avito_id": 4106860405,
       "_photo_status": "не найдено автопоиском, требуется ручной подбор",
-      "publish": true,
-      "photo_is_illustration": true
+      "publish": false,
+      "photo_is_illustration": true,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-22762DEK",
@@ -18346,7 +18723,8 @@
       ],
       "image_filename": "22762DEK.jpg",
       "avito_id": 7946655581,
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-BKL-2700DA-R-12-4000",
@@ -18393,7 +18771,8 @@
       ],
       "image_filename": "BKL-2700DA-R-12-4000.jpg",
       "avito_id": 7914125758,
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-407277",
@@ -18441,7 +18820,8 @@
       ],
       "image_filename": "407277.jpg",
       "avito_id": 7786743378,
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-01791",
@@ -18488,7 +18868,8 @@
       ],
       "image_filename": "01791.jpg",
       "avito_id": 7530613909,
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-78513",
@@ -18533,7 +18914,8 @@
       ],
       "image_filename": "78513.jpg",
       "avito_id": 4202714097,
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-UK-P-01B",
@@ -18577,7 +18959,8 @@
       ],
       "image_filename": "УК-П-01Б.jpg",
       "avito_id": 7338868025,
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-35023",
@@ -18623,7 +19006,8 @@
       ],
       "image_filename": "35023.jpg",
       "avito_id": 7594222414,
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-SO118-1201S",
@@ -18669,7 +19053,8 @@
       ],
       "image_filename": "SO118_1201S.jpg",
       "avito_id": 7338267961,
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-CTR10-050-K41-015I",
@@ -18716,7 +19101,8 @@
       ],
       "image_filename": "CTR10-050-K41-015I.jpg",
       "avito_id": 4171182025,
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-11083DEK",
@@ -18763,7 +19149,8 @@
       ],
       "image_filename": "11083DEK.jpg",
       "avito_id": 8074145871,
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-UK-N-01BV",
@@ -18809,7 +19196,8 @@
       ],
       "image_filename": "УК-Н-01БВ.jpg",
       "avito_id": 7338037746,
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-UK-P-02B",
@@ -18854,7 +19242,8 @@
       ],
       "image_filename": "УК-П-02Б.jpg",
       "avito_id": 4202886662,
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-CMP18-050-K00-015",
@@ -18901,7 +19290,8 @@
       ],
       "image_filename": "CMP18-050-K00-015.jpg",
       "avito_id": 7626650881,
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-ND2202",
@@ -18946,7 +19336,8 @@
       ],
       "image_filename": "ND2202.jpg",
       "avito_id": 7914089876,
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-025122",
@@ -18991,7 +19382,8 @@
       ],
       "image_filename": "025122.jpg",
       "avito_id": 4171141472,
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-10600129",
@@ -19037,7 +19429,8 @@
       ],
       "image_filename": "10600129.jpg",
       "avito_id": 7338286476,
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-mccb99-630-500m",
@@ -19084,7 +19477,8 @@
       ],
       "image_filename": "mccb99-630-500m.jpg",
       "avito_id": 4170945789,
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-91540",
@@ -19132,7 +19526,8 @@
       ],
       "image_filename": "91540.jpg",
       "avito_id": 4170692914,
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-5320712",
@@ -19176,8 +19571,9 @@
       "image_filename": "BLNRA010111.jpg",
       "avito_id": 7914564348,
       "_photo_status": "не найдено автопоиском, требуется ручной подбор",
-      "publish": true,
-      "photo_is_illustration": true
+      "publish": false,
+      "photo_is_illustration": true,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-22506DEK",
@@ -19224,7 +19620,8 @@
       ],
       "image_filename": "22506DEK.jpg",
       "avito_id": 7946573538,
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-TKL-FL-LED-100-6-5K-IP65",
@@ -19272,7 +19669,8 @@
       ],
       "image_filename": "TKL-FL_LED-100-6_5K-IP65.jpg",
       "avito_id": 7914758740,
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-R71",
@@ -19318,7 +19716,8 @@
       ],
       "image_filename": "Р71.jpg",
       "avito_id": 7914048344,
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-927936684011",
@@ -19366,8 +19765,9 @@
       "image_filename": "BLNRA010111.jpg",
       "avito_id": 7658399640,
       "_photo_status": "не найдено автопоиском, требуется ручной подбор",
-      "publish": true,
-      "photo_is_illustration": true
+      "publish": false,
+      "photo_is_illustration": true,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-CLP10-080-300-3",
@@ -19415,7 +19815,8 @@
       ],
       "image_filename": "CLP10-080-300-3.jpg",
       "avito_id": 7914018619,
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-CLW10-GEM-SK-600",
@@ -19462,7 +19863,8 @@
       ],
       "image_filename": "CLW10-GEM-SK-600.jpg",
       "avito_id": 4203109795,
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-A9F79210",
@@ -19511,8 +19913,9 @@
       "image_filename": "BLNRA010111.jpg",
       "avito_id": 7818616466,
       "_photo_status": "не найдено автопоиском, требуется ручной подбор",
-      "publish": true,
-      "photo_is_illustration": true
+      "publish": false,
+      "photo_is_illustration": true,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-4402991",
@@ -19558,7 +19961,8 @@
       ],
       "image_filename": "4402991.jpg",
       "avito_id": 7914674293,
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-17007DEK",
@@ -19605,7 +20009,8 @@
       ],
       "image_filename": "17007DEK.jpg",
       "avito_id": 7498322305,
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-CPS-GP11-T-150M",
@@ -19650,8 +20055,9 @@
       "image_filename": "BLNRA010111.jpg",
       "avito_id": 7914120372,
       "_photo_status": "не найдено автопоиском, требуется ручной подбор",
-      "publish": true,
-      "photo_is_illustration": true
+      "publish": false,
+      "photo_is_illustration": true,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-SL16-24",
@@ -19697,7 +20103,8 @@
       ],
       "image_filename": "SL16_24.jpg",
       "avito_id": 7338237105,
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-00304R",
@@ -19745,7 +20152,8 @@
       ],
       "image_filename": "00304R.jpg",
       "avito_id": 7530490037,
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-59386",
@@ -19788,7 +20196,8 @@
       ],
       "image_filename": "59386.jpg",
       "avito_id": 7402476396,
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-407282",
@@ -19836,7 +20245,8 @@
       ],
       "image_filename": "407282.jpg",
       "avito_id": 7786682969,
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-82167",
@@ -19879,7 +20289,8 @@
       ],
       "image_filename": "82167.jpg",
       "avito_id": 7914148375,
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-B1-12-70210-03000-6503550",
@@ -19926,7 +20337,8 @@
       ],
       "image_filename": "B1-12-70210-03000-6503550.jpg",
       "avito_id": 4171520337,
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-MVA40-3-040-C",
@@ -19973,7 +20385,8 @@
       ],
       "image_filename": "MVA40-3-040-C.jpg",
       "avito_id": 8074130049,
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-LDP03-1002-012-4000-K01",
@@ -20020,7 +20433,8 @@
       ],
       "image_filename": "LDP03-1002-012-4000-K01.jpg",
       "avito_id": 7914206924,
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-63550",
@@ -20066,7 +20480,8 @@
       ],
       "image_filename": "63550.jpg",
       "avito_id": 4202684984,
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-4402912",
@@ -20110,7 +20525,8 @@
       ],
       "image_filename": "4402912.jpg",
       "avito_id": 7914741494,
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-EASY719-AB-RC10",
@@ -20159,8 +20575,9 @@
       "image_filename": "BLNRA010111.jpg",
       "avito_id": 7914804862,
       "_photo_status": "не найдено автопоиском, требуется ручной подбор",
-      "publish": true,
-      "photo_is_illustration": true
+      "publish": false,
+      "photo_is_illustration": true,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-MVA20-1-016-B",
@@ -20208,7 +20625,8 @@
       ],
       "image_filename": "MVA20-1-016-B.jpg",
       "avito_id": 8074699918,
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-CLN10-100-150-3",
@@ -20255,7 +20673,8 @@
       ],
       "image_filename": "CLN10-100-150-3.jpg",
       "avito_id": 7594813984,
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-1054160101",
@@ -20302,7 +20721,8 @@
       ],
       "image_filename": "1054160101.jpg",
       "avito_id": 4107537862,
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-015125",
@@ -20348,7 +20768,8 @@
       ],
       "image_filename": "015125.jpg",
       "avito_id": 4106722317,
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-70020",
@@ -20393,7 +20814,8 @@
       ],
       "image_filename": "70020.jpg",
       "avito_id": 7914614605,
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-22764DEK",
@@ -20440,7 +20862,8 @@
         ]
       ],
       "image_filename": "22764DEK.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-fus-35-250",
@@ -20487,7 +20910,8 @@
       ],
       "image_filename": "fus-35_250.jpg",
       "avito_id": 8041929184,
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-59362",
@@ -20533,7 +20957,8 @@
       ],
       "image_filename": "59362.jpg",
       "avito_id": 7402401437,
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-trg-16-3s",
@@ -20579,7 +21004,8 @@
       ],
       "image_filename": "trg-16-3s.jpg",
       "avito_id": 4171067831,
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-22493DEK",
@@ -20626,7 +21052,8 @@
       ],
       "image_filename": "22493DEK.jpg",
       "avito_id": 7946257731,
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-PC-481",
@@ -20672,7 +21099,8 @@
       ],
       "image_filename": "PC_481.jpg",
       "avito_id": 4203480858,
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-10665",
@@ -20717,7 +21145,8 @@
       ],
       "image_filename": "10665.jpg",
       "avito_id": 7914663360,
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-63932",
@@ -20763,7 +21192,8 @@
       ],
       "image_filename": "63932.jpg",
       "avito_id": 4171356866,
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-6355048",
@@ -20808,7 +21238,8 @@
       ],
       "image_filename": "6355048.jpg",
       "avito_id": 4203486616,
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-CLP10-100-500-3",
@@ -20856,7 +21287,8 @@
       ],
       "image_filename": "CLP10-100-500-3.jpg",
       "avito_id": 7626053045,
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-SLIW52",
@@ -20903,7 +21335,8 @@
       ],
       "image_filename": "SLIW52.jpg",
       "avito_id": 7338246058,
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-LL-T8-10-230-40-G13",
@@ -20949,7 +21382,8 @@
       ],
       "image_filename": "LL-T8-10-230-40-G13.jpg",
       "avito_id": 7658298662,
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-A9F79350",
@@ -20997,7 +21431,8 @@
       ],
       "image_filename": "A9F79350.jpg",
       "avito_id": 7818080072,
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-PAS29N",
@@ -21042,7 +21477,8 @@
       ],
       "image_filename": "PAS29N.jpg",
       "avito_id": 4107447968,
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-ND-2304",
@@ -21087,7 +21523,8 @@
         ]
       ],
       "image_filename": "ND_2304.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-EZ9F34263",
@@ -21135,7 +21572,8 @@
       ],
       "image_filename": "EZ9F34263.jpg",
       "avito_id": 7786364114,
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-00000197",
@@ -21181,7 +21619,8 @@
       ],
       "image_filename": "00000197.jpg",
       "avito_id": 7914034315,
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-4400002",
@@ -21228,7 +21667,8 @@
       ],
       "image_filename": "4400002.jpg",
       "avito_id": 7530952443,
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-51250",
@@ -21273,7 +21713,8 @@
       ],
       "image_filename": "51250.jpg",
       "avito_id": 4106805193,
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-407280",
@@ -21320,7 +21761,8 @@
       ],
       "image_filename": "407280.jpg",
       "avito_id": 7786014167,
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-70100-1",
@@ -21366,7 +21808,8 @@
       ],
       "image_filename": "70100-1.jpg",
       "avito_id": 7914437131,
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-TKE-C05-KK3-Z",
@@ -21413,7 +21856,8 @@
       ],
       "image_filename": "TKE-C05-KK3-Z.jpg",
       "avito_id": 7402828019,
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-mccb99-100-100m",
@@ -21461,7 +21905,8 @@
       ],
       "image_filename": "mccb99-100-100m.jpg",
       "avito_id": 7914672508,
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-407279",
@@ -21508,7 +21953,8 @@
       ],
       "image_filename": "407279.jpg",
       "avito_id": 7786403743,
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-67280",
@@ -21556,8 +22002,9 @@
       "image_filename": "BLNRA010111.jpg",
       "avito_id": 4107378804,
       "_photo_status": "не найдено автопоиском, требуется ручной подбор",
-      "publish": true,
-      "photo_is_illustration": true
+      "publish": false,
+      "photo_is_illustration": true,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-70025-1",
@@ -21603,8 +22050,9 @@
       "image_filename": "BLNRA010111.jpg",
       "avito_id": 7914580478,
       "_photo_status": "не найдено автопоиском, требуется ручной подбор",
-      "publish": true,
-      "photo_is_illustration": true
+      "publish": false,
+      "photo_is_illustration": true,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-mccb99-63-16m",
@@ -21651,7 +22099,8 @@
         ]
       ],
       "image_filename": "mccb99-63-16m.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-53200",
@@ -21696,7 +22145,8 @@
         ]
       ],
       "image_filename": "53200.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-TRV00870",
@@ -21743,7 +22193,8 @@
       ],
       "image_filename": "TRV00870.jpg",
       "avito_id": 4587360605,
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-LV525302",
@@ -21792,8 +22243,9 @@
       "image_filename": "BLNRA010111.jpg",
       "avito_id": 7818768669,
       "_photo_status": "не найдено автопоиском, требуется ручной подбор",
-      "publish": true,
-      "photo_is_illustration": true
+      "publish": false,
+      "photo_is_illustration": true,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-22752DEK",
@@ -21840,7 +22292,8 @@
       ],
       "image_filename": "22752DEK.jpg",
       "avito_id": 7946608925,
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-mcb4729-2-63C",
@@ -21887,7 +22340,8 @@
         ]
       ],
       "image_filename": "mcb4729-2-63C.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-881262",
@@ -21930,7 +22384,8 @@
       ],
       "image_filename": "881262.jpg",
       "avito_id": 4203349753,
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-PSL-03-70w-4000K-GR-IP65",
@@ -21977,7 +22432,8 @@
       ],
       "image_filename": "PSL_03_70w_4000K_GR_IP65.jpg",
       "avito_id": 4171026427,
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-CM10-32-025",
@@ -22024,7 +22480,8 @@
       ],
       "image_filename": "CM10-32-025.jpg",
       "avito_id": 7626875864,
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-BBA3010",
@@ -22068,7 +22525,8 @@
       ],
       "image_filename": "BBA3010.jpg",
       "avito_id": 4202658824,
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-11078DEK",
@@ -22114,7 +22572,8 @@
         ]
       ],
       "image_filename": "11078DEK.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-36145K",
@@ -22159,7 +22618,8 @@
       ],
       "image_filename": "36145K.jpg",
       "avito_id": 4202992506,
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-A9N18367",
@@ -22206,8 +22666,9 @@
         ]
       ],
       "image_filename": "A9N18367.jpg",
-      "publish": true,
-      "photo_is_illustration": true
+      "publish": false,
+      "photo_is_illustration": true,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-A9N18367",
@@ -22254,8 +22715,9 @@
         ]
       ],
       "image_filename": "A9N18367.jpg",
-      "publish": true,
-      "photo_is_illustration": true
+      "publish": false,
+      "photo_is_illustration": true,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-22756DEK",
@@ -22301,7 +22763,8 @@
         ]
       ],
       "image_filename": "22756DEK.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-ROA-300-1",
@@ -22347,7 +22810,8 @@
       ],
       "image_filename": "РОА-300-1.jpg",
       "avito_id": 7690131024,
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-37301",
@@ -22392,7 +22856,8 @@
       ],
       "image_filename": "37301.jpg",
       "avito_id": 7914391279,
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-opv-b4",
@@ -22440,8 +22905,9 @@
       "image_filename": "BLNRA010111.jpg",
       "avito_id": 4203097113,
       "_photo_status": "не найдено автопоиском, требуется ручной подбор",
-      "publish": true,
-      "photo_is_illustration": true
+      "publish": false,
+      "photo_is_illustration": true,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-LV429348",
@@ -22487,8 +22953,9 @@
       "image_filename": "BLNRA010111.jpg",
       "avito_id": 4586943869,
       "_photo_status": "не найдено автопоиском, требуется ручной подбор",
-      "publish": true,
-      "photo_is_illustration": true
+      "publish": false,
+      "photo_is_illustration": true,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-PSR12-032-5",
@@ -22535,7 +23002,8 @@
       ],
       "image_filename": "PSR12-032-5.jpg",
       "avito_id": 8042898249,
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-11082DEK",
@@ -22582,7 +23050,8 @@
         ]
       ],
       "image_filename": "11082DEK.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-mcb4763-3-50C-pro",
@@ -22630,7 +23099,8 @@
       ],
       "image_filename": "mcb4763-3-50C-pro.jpg",
       "avito_id": 7946429206,
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-00395",
@@ -22676,7 +23146,8 @@
       ],
       "image_filename": "00395.jpg",
       "avito_id": 4202855280,
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-13009DEK",
@@ -22723,7 +23194,8 @@
       ],
       "image_filename": "13009DEK.jpg",
       "avito_id": 7946826920,
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-SVA10-3-0032",
@@ -22770,7 +23242,8 @@
       ],
       "image_filename": "SVA10-3-0032.jpg",
       "avito_id": 7946821049,
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-B0035332",
@@ -22818,7 +23291,8 @@
       ],
       "image_filename": "Б0035332.jpg",
       "avito_id": 4106687434,
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-NEF-12-T12",
@@ -22864,7 +23338,8 @@
       ],
       "image_filename": "NEF-12-T12.jpg",
       "avito_id": 7914368983,
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-36144K",
@@ -22909,7 +23384,8 @@
         ]
       ],
       "image_filename": "36144K.jpg",
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     },
     {
       "id": "DKA-UZA-14-D95-2000",
@@ -22957,7 +23433,8 @@
       ],
       "image_filename": "UZA-14-D95-2000.jpg",
       "avito_id": 7338892615,
-      "publish": true
+      "publish": false,
+      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
     }
   ]
 }
