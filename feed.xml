@@ -1,3 +1,484 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Ads formatVersion="3" target="Avito.ru">
+  <Ad>
+    <Id>DKA-01050A</Id>
+    <Address>Хабаровск, ул. Лазо, 2Д/3</Address>
+    <Category>Ремонт и строительство</Category>
+    <GoodsType>Стройматериалы</GoodsType>
+    <GoodsSubType>Электрика</GoodsSubType>
+    <AdType>Товар приобретен на продажу</AdType>
+    <Availability>В наличии</Availability>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <Brand>DKC (ДКС)</Brand>
+    <CompanyName>ООО «ДКА»</CompanyName>
+    <EMail>dka@dka-khv.ru</EMail>
+    <Condition>Новое</Condition>
+    <Title>Кабель-канал 110x50 DKC 01050A чёрный</Title>
+    <Description><![CDATA[<strong>🔌 Всё для электромонтажа и ремонта в Хабаровске – здесь и сейчас!</strong><br/>Мы предлагаем широкий ассортимент электротехнической продукции для тех, кто ценит надежность и удобство. <br/>Заходите в профиль📲<br/><br/>Кабель-канал 110x50 DKC 01050A чёрный.<br/><br/>📦 Все товары уже на складе в Хабаровске – никаких ожиданий, приезжайте и забирайте, когда удобно. Мы знаем, как важны качество и сроки для мастеров и подрядчиков.<br/><br/><strong>🚀 Почему стоит выбрать нас?</strong><br/>• Всё в одном месте: от светодиодных ламп до коробок и кабелей – полный комплект для вашего проекта<br/>• Гарантия качества: продукция от проверенных брендов, соответствующая всем стандартам<br/>• Удобный самовывоз и наличие товаров на месте – экономьте время и деньги<br/><br/><strong>✉️ Напишите нам сообщение прямо сейчас</strong>, и мы поможем вам с выбором и ответим на все вопросы. Решите все задачи по электромонтажу в одном месте!]]></Description>
+    <Price>2344</Price>
+    <ContactPhone>79300358026</ContactPhone>
+    <ManagerName>Менеджер ДКА</ManagerName>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/petukhova2023-bit/unergi-avito-feed/main/images/01050A.jpg"/>
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>DKA-71516</Id>
+    <Address>Хабаровск, ул. Лазо, 2Д/3</Address>
+    <Category>Ремонт и строительство</Category>
+    <GoodsType>Стройматериалы</GoodsType>
+    <GoodsSubType>Электрика</GoodsSubType>
+    <AdType>Товар приобретен на продажу</AdType>
+    <Availability>В наличии</Availability>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <Brand>DKC</Brand>
+    <CompanyName>ООО «ДКА»</CompanyName>
+    <EMail>dka@dka-khv.ru</EMail>
+    <Condition>Новое</Condition>
+    <Title>Гофра ПНД d16 тяжёлая DKC 71516</Title>
+    <Description><![CDATA[<strong>🔌 Всё для электромонтажа и ремонта в Хабаровске – здесь и сейчас!</strong><br/>Мы предлагаем широкий ассортимент электротехнической продукции для тех, кто ценит надежность и удобство. <br/>Заходите в профиль📲<br/><br/>Гофра ПНД d16 тяжёлая DKC 71516.<br/><br/>📦 Все товары уже на складе в Хабаровске – никаких ожиданий, приезжайте и забирайте, когда удобно. Мы знаем, как важны качество и сроки для мастеров и подрядчиков.<br/><br/><strong>🚀 Почему стоит выбрать нас?</strong><br/>• Всё в одном месте: от светодиодных ламп до коробок и кабелей – полный комплект для вашего проекта<br/>• Гарантия качества: продукция от проверенных брендов, соответствующая всем стандартам<br/>• Удобный самовывоз и наличие товаров на месте – экономьте время и деньги<br/><br/><strong>✉️ Напишите нам сообщение прямо сейчас</strong>, и мы поможем вам с выбором и ответим на все вопросы. Решите все задачи по электромонтажу в одном месте!]]></Description>
+    <Price>2947</Price>
+    <ContactPhone>79300358026</ContactPhone>
+    <ManagerName>Менеджер ДКА</ManagerName>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/petukhova2023-bit/unergi-avito-feed/main/images/71516.jpg"/>
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>DKA-V1-U0-00821-21A00-6501540</Id>
+    <AvitoId>4170909405</AvitoId>
+    <Address>Хабаровск, ул. Лазо, 2Д/3</Address>
+    <Category>Ремонт и строительство</Category>
+    <GoodsType>Стройматериалы</GoodsType>
+    <GoodsSubType>Электрика</GoodsSubType>
+    <AdType>Товар приобретен на продажу</AdType>
+    <Availability>В наличии</Availability>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <Brand>VARTON</Brand>
+    <CompanyName>ООО «ДКА»</CompanyName>
+    <EMail>dka@dka-khv.ru</EMail>
+    <Condition>Новое</Condition>
+    <Title>Светильник VARTON ЖКХ 15Вт IP65 аварийный</Title>
+    <Description><![CDATA[<strong>🔌 Всё для электромонтажа и ремонта в Хабаровске – здесь и сейчас!</strong><br/>Мы предлагаем широкий ассортимент электротехнической продукции для тех, кто ценит надежность и удобство. <br/>Заходите в профиль📲<br/><br/>Светильник VARTON ЖКХ 15Вт IP65 аварийный.<br/><br/>📦 Все товары уже на складе в Хабаровске – никаких ожиданий, приезжайте и забирайте, когда удобно. Мы знаем, как важны качество и сроки для мастеров и подрядчиков.<br/><br/><strong>🚀 Почему стоит выбрать нас?</strong><br/>• Всё в одном месте: от светодиодных ламп до коробок и кабелей – полный комплект для вашего проекта<br/>• Гарантия качества: продукция от проверенных брендов, соответствующая всем стандартам<br/>• Удобный самовывоз и наличие товаров на месте – экономьте время и деньги<br/><br/><strong>✉️ Напишите нам сообщение прямо сейчас</strong>, и мы поможем вам с выбором и ответим на все вопросы. Решите все задачи по электромонтажу в одном месте!]]></Description>
+    <Price>15417</Price>
+    <ContactPhone>79300358026</ContactPhone>
+    <ManagerName>Менеджер ДКА</ManagerName>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/petukhova2023-bit/unergi-avito-feed/main/images/V1-U0-00821-21A00-6501540.jpg"/>
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>DKA-V1-U0-00821-21S00-6501540</Id>
+    <AvitoId>4171423301</AvitoId>
+    <Address>Хабаровск, ул. Лазо, 2Д/3</Address>
+    <Category>Ремонт и строительство</Category>
+    <GoodsType>Стройматериалы</GoodsType>
+    <GoodsSubType>Электрика</GoodsSubType>
+    <AdType>Товар приобретен на продажу</AdType>
+    <Availability>В наличии</Availability>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <Brand>VARTON</Brand>
+    <CompanyName>ООО «ДКА»</CompanyName>
+    <EMail>dka@dka-khv.ru</EMail>
+    <Condition>Новое</Condition>
+    <Title>Светильник VARTON NERO 15Вт IP65 датчик</Title>
+    <Description><![CDATA[<strong>🔌 Всё для электромонтажа и ремонта в Хабаровске – здесь и сейчас!</strong><br/>Мы предлагаем широкий ассортимент электротехнической продукции для тех, кто ценит надежность и удобство. <br/>Заходите в профиль📲<br/><br/>Светильник VARTON NERO 15Вт IP65 датчик.<br/><br/>📦 Все товары уже на складе в Хабаровске – никаких ожиданий, приезжайте и забирайте, когда удобно. Мы знаем, как важны качество и сроки для мастеров и подрядчиков.<br/><br/><strong>🚀 Почему стоит выбрать нас?</strong><br/>• Всё в одном месте: от светодиодных ламп до коробок и кабелей – полный комплект для вашего проекта<br/>• Гарантия качества: продукция от проверенных брендов, соответствующая всем стандартам<br/>• Удобный самовывоз и наличие товаров на месте – экономьте время и деньги<br/><br/><strong>✉️ Напишите нам сообщение прямо сейчас</strong>, и мы поможем вам с выбором и ответим на все вопросы. Решите все задачи по электромонтажу в одном месте!]]></Description>
+    <Price>11274</Price>
+    <ContactPhone>79300358026</ContactPhone>
+    <ManagerName>Менеджер ДКА</ManagerName>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/petukhova2023-bit/unergi-avito-feed/main/images/V1-U0-00821-21S00-6501540.jpg"/>
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>DKA-CLP10-080-400-3</Id>
+    <AvitoId>7914137211</AvitoId>
+    <Address>Хабаровск, ул. Лазо, 2Д/3</Address>
+    <Category>Ремонт и строительство</Category>
+    <GoodsType>Стройматериалы</GoodsType>
+    <GoodsSubType>Электрика</GoodsSubType>
+    <AdType>Товар приобретен на продажу</AdType>
+    <Availability>В наличии</Availability>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <Brand>IEK (ИЭК)</Brand>
+    <CompanyName>ООО «ДКА»</CompanyName>
+    <EMail>dka@dka-khv.ru</EMail>
+    <Condition>Новое</Condition>
+    <Title>Лоток перф. 400х80 3м IEK</Title>
+    <Description><![CDATA[<strong>🔌 Всё для электромонтажа и ремонта в Хабаровске – здесь и сейчас!</strong><br/>Мы предлагаем широкий ассортимент электротехнической продукции для тех, кто ценит надежность и удобство. <br/>Заходите в профиль📲<br/><br/>Лоток перф. 400х80 3м IEK.<br/><br/>📦 Все товары уже на складе в Хабаровске – никаких ожиданий, приезжайте и забирайте, когда удобно. Мы знаем, как важны качество и сроки для мастеров и подрядчиков.<br/><br/><strong>🚀 Почему стоит выбрать нас?</strong><br/>• Всё в одном месте: от светодиодных ламп до коробок и кабелей – полный комплект для вашего проекта<br/>• Гарантия качества: продукция от проверенных брендов, соответствующая всем стандартам<br/>• Удобный самовывоз и наличие товаров на месте – экономьте время и деньги<br/><br/><strong>✉️ Напишите нам сообщение прямо сейчас</strong>, и мы поможем вам с выбором и ответим на все вопросы. Решите все задачи по электромонтажу в одном месте!]]></Description>
+    <Price>2868</Price>
+    <ContactPhone>79300358026</ContactPhone>
+    <ManagerName>Менеджер ДКА</ManagerName>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/petukhova2023-bit/unergi-avito-feed/main/images/CLP10-080-400-3.jpg"/>
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>DKA-2CDA282799R0161</Id>
+    <AvitoId>7786233412</AvitoId>
+    <Address>Хабаровск, ул. Лазо, 2Д/3</Address>
+    <Category>Ремонт и строительство</Category>
+    <GoodsType>Стройматериалы</GoodsType>
+    <GoodsSubType>Электрика</GoodsSubType>
+    <AdType>Товар приобретен на продажу</AdType>
+    <Availability>В наличии</Availability>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <Brand>ABB</Brand>
+    <CompanyName>ООО «ДКА»</CompanyName>
+    <EMail>dka@dka-khv.ru</EMail>
+    <Condition>Новое</Condition>
+    <Title>Авт. выкл. ABB M202 2P 16A 25кА</Title>
+    <Description><![CDATA[<strong>🔌 Всё для электромонтажа и ремонта в Хабаровске – здесь и сейчас!</strong><br/>Мы предлагаем широкий ассортимент электротехнической продукции для тех, кто ценит надежность и удобство. <br/>Заходите в профиль📲<br/><br/>Авт. выкл. ABB M202 2P 16A 25кА.<br/><br/>📦 Все товары уже на складе в Хабаровске – никаких ожиданий, приезжайте и забирайте, когда удобно. Мы знаем, как важны качество и сроки для мастеров и подрядчиков.<br/><br/><strong>🚀 Почему стоит выбрать нас?</strong><br/>• Всё в одном месте: от светодиодных ламп до коробок и кабелей – полный комплект для вашего проекта<br/>• Гарантия качества: продукция от проверенных брендов, соответствующая всем стандартам<br/>• Удобный самовывоз и наличие товаров на месте – экономьте время и деньги<br/><br/><strong>✉️ Напишите нам сообщение прямо сейчас</strong>, и мы поможем вам с выбором и ответим на все вопросы. Решите все задачи по электромонтажу в одном месте!]]></Description>
+    <Price>6437</Price>
+    <ContactPhone>79300358026</ContactPhone>
+    <ManagerName>Менеджер ДКА</ManagerName>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/petukhova2023-bit/unergi-avito-feed/main/images/2CDA282799R0161.jpg"/>
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>DKA-91525</Id>
+    <AvitoId>4170931751</AvitoId>
+    <Address>Хабаровск, ул. Лазо, 2Д/3</Address>
+    <Category>Ремонт и строительство</Category>
+    <GoodsType>Стройматериалы</GoodsType>
+    <GoodsSubType>Электрика</GoodsSubType>
+    <AdType>Товар приобретен на продажу</AdType>
+    <Availability>В наличии</Availability>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <Brand>DKC</Brand>
+    <CompanyName>ООО «ДКА»</CompanyName>
+    <EMail>dka@dka-khv.ru</EMail>
+    <Condition>Новое</Condition>
+    <Title>Труба гофр ПВХ d25 тяжёлая DKC 50м</Title>
+    <Description><![CDATA[<strong>🔌 Всё для электромонтажа и ремонта в Хабаровске – здесь и сейчас!</strong><br/>Мы предлагаем широкий ассортимент электротехнической продукции для тех, кто ценит надежность и удобство. <br/>Заходите в профиль📲<br/><br/>Труба гофр ПВХ d25 тяжёлая DKC 50м.<br/><br/>📦 Все товары уже на складе в Хабаровске – никаких ожиданий, приезжайте и забирайте, когда удобно. Мы знаем, как важны качество и сроки для мастеров и подрядчиков.<br/><br/><strong>🚀 Почему стоит выбрать нас?</strong><br/>• Всё в одном месте: от светодиодных ламп до коробок и кабелей – полный комплект для вашего проекта<br/>• Гарантия качества: продукция от проверенных брендов, соответствующая всем стандартам<br/>• Удобный самовывоз и наличие товаров на месте – экономьте время и деньги<br/><br/><strong>✉️ Напишите нам сообщение прямо сейчас</strong>, и мы поможем вам с выбором и ответим на все вопросы. Решите все задачи по электромонтажу в одном месте!]]></Description>
+    <Price>3456</Price>
+    <ContactPhone>79300358026</ContactPhone>
+    <ManagerName>Менеджер ДКА</ManagerName>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/petukhova2023-bit/unergi-avito-feed/main/images/91525.jpg"/>
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>DKA-ZP-95M</Id>
+    <AvitoId>7338390465</AvitoId>
+    <Address>Хабаровск, ул. Лазо, 2Д/3</Address>
+    <Category>Ремонт и строительство</Category>
+    <GoodsType>Стройматериалы</GoodsType>
+    <GoodsSubType>Электрика</GoodsSubType>
+    <AdType>Товар приобретен на продажу</AdType>
+    <Availability>В наличии</Availability>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <Brand>ZP (Зажим Прокалывающий, серия ZP)</Brand>
+    <CompanyName>ООО «ДКА»</CompanyName>
+    <EMail>dka@dka-khv.ru</EMail>
+    <Condition>Новое</Condition>
+    <Title>Зажим ответвительный ZP 95M</Title>
+    <Description><![CDATA[<strong>🔌 Всё для электромонтажа и ремонта в Хабаровске – здесь и сейчас!</strong><br/>Мы предлагаем широкий ассортимент электротехнической продукции для тех, кто ценит надежность и удобство. <br/>Заходите в профиль📲<br/><br/>Зажим ответвительный ZP 95M.<br/><br/>📦 Все товары уже на складе в Хабаровске – никаких ожиданий, приезжайте и забирайте, когда удобно. Мы знаем, как важны качество и сроки для мастеров и подрядчиков.<br/><br/><strong>🚀 Почему стоит выбрать нас?</strong><br/>• Всё в одном месте: от светодиодных ламп до коробок и кабелей – полный комплект для вашего проекта<br/>• Гарантия качества: продукция от проверенных брендов, соответствующая всем стандартам<br/>• Удобный самовывоз и наличие товаров на месте – экономьте время и деньги<br/><br/><strong>✉️ Напишите нам сообщение прямо сейчас</strong>, и мы поможем вам с выбором и ответим на все вопросы. Решите все задачи по электромонтажу в одном месте!]]></Description>
+    <Price>215</Price>
+    <ContactPhone>79300358026</ContactPhone>
+    <ManagerName>Менеджер ДКА</ManagerName>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/petukhova2023-bit/unergi-avito-feed/main/images/ZP_95М.jpg"/>
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>DKA-22762DEK</Id>
+    <AvitoId>7946655581</AvitoId>
+    <Address>Хабаровск, ул. Лазо, 2Д/3</Address>
+    <Category>Ремонт и строительство</Category>
+    <GoodsType>Стройматериалы</GoodsType>
+    <GoodsSubType>Электрика</GoodsSubType>
+    <AdType>Товар приобретен на продажу</AdType>
+    <Availability>В наличии</Availability>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <Brand>DEKraft</Brand>
+    <CompanyName>ООО «ДКА»</CompanyName>
+    <EMail>dka@dka-khv.ru</EMail>
+    <Condition>Новое</Condition>
+    <Title>Автомат ВА305 400А 35кА DEKraft</Title>
+    <Description><![CDATA[<strong>🔌 Всё для электромонтажа и ремонта в Хабаровске – здесь и сейчас!</strong><br/>Мы предлагаем широкий ассортимент электротехнической продукции для тех, кто ценит надежность и удобство. <br/>Заходите в профиль📲<br/><br/>Автомат ВА305 400А 35кА DEKraft.<br/><br/>📦 Все товары уже на складе в Хабаровске – никаких ожиданий, приезжайте и забирайте, когда удобно. Мы знаем, как важны качество и сроки для мастеров и подрядчиков.<br/><br/><strong>🚀 Почему стоит выбрать нас?</strong><br/>• Всё в одном месте: от светодиодных ламп до коробок и кабелей – полный комплект для вашего проекта<br/>• Гарантия качества: продукция от проверенных брендов, соответствующая всем стандартам<br/>• Удобный самовывоз и наличие товаров на месте – экономьте время и деньги<br/><br/><strong>✉️ Напишите нам сообщение прямо сейчас</strong>, и мы поможем вам с выбором и ответим на все вопросы. Решите все задачи по электромонтажу в одном месте!]]></Description>
+    <Price>11457</Price>
+    <ContactPhone>79300358026</ContactPhone>
+    <ManagerName>Менеджер ДКА</ManagerName>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/petukhova2023-bit/unergi-avito-feed/main/images/22762DEK.jpg"/>
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>DKA-01791</Id>
+    <AvitoId>7530613909</AvitoId>
+    <Address>Хабаровск, ул. Лазо, 2Д/3</Address>
+    <Category>Ремонт и строительство</Category>
+    <GoodsType>Стройматериалы</GoodsType>
+    <GoodsSubType>Электрика</GoodsSubType>
+    <AdType>Товар приобретен на продажу</AdType>
+    <Availability>В наличии</Availability>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <Brand>DKC (ДКС)</Brand>
+    <CompanyName>ООО «ДКА»</CompanyName>
+    <EMail>dka@dka-khv.ru</EMail>
+    <Condition>Новое</Condition>
+    <Title>Кабель-канал 120х80 DKC 01791</Title>
+    <Description><![CDATA[<strong>🔌 Всё для электромонтажа и ремонта в Хабаровске – здесь и сейчас!</strong><br/>Мы предлагаем широкий ассортимент электротехнической продукции для тех, кто ценит надежность и удобство. <br/>Заходите в профиль📲<br/><br/>Кабель-канал 120х80 DKC 01791.<br/><br/>📦 Все товары уже на складе в Хабаровске – никаких ожиданий, приезжайте и забирайте, когда удобно. Мы знаем, как важны качество и сроки для мастеров и подрядчиков.<br/><br/><strong>🚀 Почему стоит выбрать нас?</strong><br/>• Всё в одном месте: от светодиодных ламп до коробок и кабелей – полный комплект для вашего проекта<br/>• Гарантия качества: продукция от проверенных брендов, соответствующая всем стандартам<br/>• Удобный самовывоз и наличие товаров на месте – экономьте время и деньги<br/><br/><strong>✉️ Напишите нам сообщение прямо сейчас</strong>, и мы поможем вам с выбором и ответим на все вопросы. Решите все задачи по электромонтажу в одном месте!]]></Description>
+    <Price>3553</Price>
+    <ContactPhone>79300358026</ContactPhone>
+    <ManagerName>Менеджер ДКА</ManagerName>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/petukhova2023-bit/unergi-avito-feed/main/images/01791.jpg"/>
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>DKA-UK-P-01B</Id>
+    <AvitoId>7338868025</AvitoId>
+    <Address>Хабаровск, ул. Лазо, 2Д/3</Address>
+    <Category>Ремонт и строительство</Category>
+    <GoodsType>Стройматериалы</GoodsType>
+    <GoodsSubType>Электрика</GoodsSubType>
+    <AdType>Товар приобретен на продажу</AdType>
+    <Availability>В наличии</Availability>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <Brand>Install</Brand>
+    <CompanyName>ООО «ДКА»</CompanyName>
+    <EMail>dka@dka-khv.ru</EMail>
+    <Condition>Новое</Condition>
+    <Title>Узел крепления УК-П-01Б Install</Title>
+    <Description><![CDATA[<strong>🔌 Всё для электромонтажа и ремонта в Хабаровске – здесь и сейчас!</strong><br/>Мы предлагаем широкий ассортимент электротехнической продукции для тех, кто ценит надежность и удобство. <br/>Заходите в профиль📲<br/><br/>Узел крепления УК-П-01Б Install.<br/><br/>📦 Все товары уже на складе в Хабаровске – никаких ожиданий, приезжайте и забирайте, когда удобно. Мы знаем, как важны качество и сроки для мастеров и подрядчиков.<br/><br/><strong>🚀 Почему стоит выбрать нас?</strong><br/>• Всё в одном месте: от светодиодных ламп до коробок и кабелей – полный комплект для вашего проекта<br/>• Гарантия качества: продукция от проверенных брендов, соответствующая всем стандартам<br/>• Удобный самовывоз и наличие товаров на месте – экономьте время и деньги<br/><br/><strong>✉️ Напишите нам сообщение прямо сейчас</strong>, и мы поможем вам с выбором и ответим на все вопросы. Решите все задачи по электромонтажу в одном месте!]]></Description>
+    <Price>140</Price>
+    <ContactPhone>79300358026</ContactPhone>
+    <ManagerName>Менеджер ДКА</ManagerName>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/petukhova2023-bit/unergi-avito-feed/main/images/УК-П-01Б.jpg"/>
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>DKA-35023</Id>
+    <AvitoId>7594222414</AvitoId>
+    <Address>Хабаровск, ул. Лазо, 2Д/3</Address>
+    <Category>Ремонт и строительство</Category>
+    <GoodsType>Стройматериалы</GoodsType>
+    <GoodsSubType>Электрика</GoodsSubType>
+    <AdType>Товар приобретен на продажу</AdType>
+    <Availability>В наличии</Availability>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <Brand>DKC (ДКС)</Brand>
+    <CompanyName>ООО «ДКА»</CompanyName>
+    <EMail>dka@dka-khv.ru</EMail>
+    <Condition>Новое</Condition>
+    <Title>Лоток кабельный 150х50 DKC 35023</Title>
+    <Description><![CDATA[<strong>🔌 Всё для электромонтажа и ремонта в Хабаровске – здесь и сейчас!</strong><br/>Мы предлагаем широкий ассортимент электротехнической продукции для тех, кто ценит надежность и удобство. <br/>Заходите в профиль📲<br/><br/>Лоток кабельный 150х50 DKC 35023.<br/><br/>📦 Все товары уже на складе в Хабаровске – никаких ожиданий, приезжайте и забирайте, когда удобно. Мы знаем, как важны качество и сроки для мастеров и подрядчиков.<br/><br/><strong>🚀 Почему стоит выбрать нас?</strong><br/>• Всё в одном месте: от светодиодных ламп до коробок и кабелей – полный комплект для вашего проекта<br/>• Гарантия качества: продукция от проверенных брендов, соответствующая всем стандартам<br/>• Удобный самовывоз и наличие товаров на месте – экономьте время и деньги<br/><br/><strong>✉️ Напишите нам сообщение прямо сейчас</strong>, и мы поможем вам с выбором и ответим на все вопросы. Решите все задачи по электромонтажу в одном месте!]]></Description>
+    <Price>662</Price>
+    <ContactPhone>79300358026</ContactPhone>
+    <ManagerName>Менеджер ДКА</ManagerName>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/petukhova2023-bit/unergi-avito-feed/main/images/35023.jpg"/>
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>DKA-UK-N-01BV</Id>
+    <AvitoId>7338037746</AvitoId>
+    <Address>Хабаровск, ул. Лазо, 2Д/3</Address>
+    <Category>Ремонт и строительство</Category>
+    <GoodsType>Стройматериалы</GoodsType>
+    <GoodsSubType>Электрика</GoodsSubType>
+    <AdType>Товар приобретен на продажу</AdType>
+    <Availability>В наличии</Availability>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <Brand>Install</Brand>
+    <CompanyName>ООО «ДКА»</CompanyName>
+    <EMail>dka@dka-khv.ru</EMail>
+    <Condition>Новое</Condition>
+    <Title>Узел крепления натяжной УК-Н-01БВ Install</Title>
+    <Description><![CDATA[<strong>🔌 Всё для электромонтажа и ремонта в Хабаровске – здесь и сейчас!</strong><br/>Мы предлагаем широкий ассортимент электротехнической продукции для тех, кто ценит надежность и удобство. <br/>Заходите в профиль📲<br/><br/>Узел крепления натяжной УК-Н-01БВ Install.<br/><br/>📦 Все товары уже на складе в Хабаровске – никаких ожиданий, приезжайте и забирайте, когда удобно. Мы знаем, как важны качество и сроки для мастеров и подрядчиков.<br/><br/><strong>🚀 Почему стоит выбрать нас?</strong><br/>• Всё в одном месте: от светодиодных ламп до коробок и кабелей – полный комплект для вашего проекта<br/>• Гарантия качества: продукция от проверенных брендов, соответствующая всем стандартам<br/>• Удобный самовывоз и наличие товаров на месте – экономьте время и деньги<br/><br/><strong>✉️ Напишите нам сообщение прямо сейчас</strong>, и мы поможем вам с выбором и ответим на все вопросы. Решите все задачи по электромонтажу в одном месте!]]></Description>
+    <Price>141</Price>
+    <ContactPhone>79300358026</ContactPhone>
+    <ManagerName>Менеджер ДКА</ManagerName>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/petukhova2023-bit/unergi-avito-feed/main/images/УК-Н-01БВ.jpg"/>
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>DKA-UK-P-02B</Id>
+    <AvitoId>4202886662</AvitoId>
+    <Address>Хабаровск, ул. Лазо, 2Д/3</Address>
+    <Category>Ремонт и строительство</Category>
+    <GoodsType>Стройматериалы</GoodsType>
+    <GoodsSubType>Электрика</GoodsSubType>
+    <AdType>Товар приобретен на продажу</AdType>
+    <Availability>В наличии</Availability>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <Brand>Install</Brand>
+    <CompanyName>ООО «ДКА»</CompanyName>
+    <EMail>dka@dka-khv.ru</EMail>
+    <Condition>Новое</Condition>
+    <Title>Узел крепления УК-П-02Б Install</Title>
+    <Description><![CDATA[<strong>🔌 Всё для электромонтажа и ремонта в Хабаровске – здесь и сейчас!</strong><br/>Мы предлагаем широкий ассортимент электротехнической продукции для тех, кто ценит надежность и удобство. <br/>Заходите в профиль📲<br/><br/>Узел крепления УК-П-02Б Install.<br/><br/>📦 Все товары уже на складе в Хабаровске – никаких ожиданий, приезжайте и забирайте, когда удобно. Мы знаем, как важны качество и сроки для мастеров и подрядчиков.<br/><br/><strong>🚀 Почему стоит выбрать нас?</strong><br/>• Всё в одном месте: от светодиодных ламп до коробок и кабелей – полный комплект для вашего проекта<br/>• Гарантия качества: продукция от проверенных брендов, соответствующая всем стандартам<br/>• Удобный самовывоз и наличие товаров на месте – экономьте время и деньги<br/><br/><strong>✉️ Напишите нам сообщение прямо сейчас</strong>, и мы поможем вам с выбором и ответим на все вопросы. Решите все задачи по электромонтажу в одном месте!]]></Description>
+    <Price>372</Price>
+    <ContactPhone>79300358026</ContactPhone>
+    <ManagerName>Менеджер ДКА</ManagerName>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/petukhova2023-bit/unergi-avito-feed/main/images/УК-П-02Б.jpg"/>
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>DKA-CMP18-050-K00-015</Id>
+    <AvitoId>7626650881</AvitoId>
+    <Address>Хабаровск, ул. Лазо, 2Д/3</Address>
+    <Category>Ремонт и строительство</Category>
+    <GoodsType>Стройматериалы</GoodsType>
+    <GoodsSubType>Электрика</GoodsSubType>
+    <AdType>Товар приобретен на продажу</AdType>
+    <Availability>В наличии</Availability>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <Brand>IEK</Brand>
+    <CompanyName>ООО «ДКА»</CompanyName>
+    <EMail>dka@dka-khv.ru</EMail>
+    <Condition>Новое</Condition>
+    <Title>Металлорукав РЗ-ЦХ-50 IEK 15м</Title>
+    <Description><![CDATA[<strong>🔌 Всё для электромонтажа и ремонта в Хабаровске – здесь и сейчас!</strong><br/>Мы предлагаем широкий ассортимент электротехнической продукции для тех, кто ценит надежность и удобство. <br/>Заходите в профиль📲<br/><br/>Металлорукав РЗ-ЦХ-50 IEK 15м.<br/><br/>📦 Все товары уже на складе в Хабаровске – никаких ожиданий, приезжайте и забирайте, когда удобно. Мы знаем, как важны качество и сроки для мастеров и подрядчиков.<br/><br/><strong>🚀 Почему стоит выбрать нас?</strong><br/>• Всё в одном месте: от светодиодных ламп до коробок и кабелей – полный комплект для вашего проекта<br/>• Гарантия качества: продукция от проверенных брендов, соответствующая всем стандартам<br/>• Удобный самовывоз и наличие товаров на месте – экономьте время и деньги<br/><br/><strong>✉️ Напишите нам сообщение прямо сейчас</strong>, и мы поможем вам с выбором и ответим на все вопросы. Решите все задачи по электромонтажу в одном месте!]]></Description>
+    <Price>646</Price>
+    <ContactPhone>79300358026</ContactPhone>
+    <ManagerName>Менеджер ДКА</ManagerName>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/petukhova2023-bit/unergi-avito-feed/main/images/CMP18-050-K00-015.jpg"/>
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>DKA-025122</Id>
+    <AvitoId>4171141472</AvitoId>
+    <Address>Хабаровск, ул. Лазо, 2Д/3</Address>
+    <Category>Ремонт и строительство</Category>
+    <GoodsType>Стройматериалы</GoodsType>
+    <GoodsSubType>Электрика</GoodsSubType>
+    <AdType>Товар приобретен на продажу</AdType>
+    <Availability>В наличии</Availability>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <Brand>DKC (ДКС)</Brand>
+    <CompanyName>ООО «ДКА»</CompanyName>
+    <EMail>dka@dka-khv.ru</EMail>
+    <Condition>Новое</Condition>
+    <Title>Кластер двойной DKC d125 025122</Title>
+    <Description><![CDATA[<strong>🔌 Всё для электромонтажа и ремонта в Хабаровске – здесь и сейчас!</strong><br/>Мы предлагаем широкий ассортимент электротехнической продукции для тех, кто ценит надежность и удобство. <br/>Заходите в профиль📲<br/><br/>Кластер двойной DKC d125 025122.<br/><br/>📦 Все товары уже на складе в Хабаровске – никаких ожиданий, приезжайте и забирайте, когда удобно. Мы знаем, как важны качество и сроки для мастеров и подрядчиков.<br/><br/><strong>🚀 Почему стоит выбрать нас?</strong><br/>• Всё в одном месте: от светодиодных ламп до коробок и кабелей – полный комплект для вашего проекта<br/>• Гарантия качества: продукция от проверенных брендов, соответствующая всем стандартам<br/>• Удобный самовывоз и наличие товаров на месте – экономьте время и деньги<br/><br/><strong>✉️ Напишите нам сообщение прямо сейчас</strong>, и мы поможем вам с выбором и ответим на все вопросы. Решите все задачи по электромонтажу в одном месте!]]></Description>
+    <Price>298</Price>
+    <ContactPhone>79300358026</ContactPhone>
+    <ManagerName>Менеджер ДКА</ManagerName>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/petukhova2023-bit/unergi-avito-feed/main/images/025122.jpg"/>
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>DKA-10600129</Id>
+    <AvitoId>7338286476</AvitoId>
+    <Address>Хабаровск, ул. Лазо, 2Д/3</Address>
+    <Category>Ремонт и строительство</Category>
+    <GoodsType>Стройматериалы</GoodsType>
+    <GoodsSubType>Электрика</GoodsSubType>
+    <AdType>Товар приобретен на продажу</AdType>
+    <Availability>В наличии</Availability>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <Brand>NILED</Brand>
+    <CompanyName>ООО «ДКА»</CompanyName>
+    <EMail>dka@dka-khv.ru</EMail>
+    <Condition>Новое</Condition>
+    <Title>Зажим анкерный DN 126 NILED</Title>
+    <Description><![CDATA[<strong>🔌 Всё для электромонтажа и ремонта в Хабаровске – здесь и сейчас!</strong><br/>Мы предлагаем широкий ассортимент электротехнической продукции для тех, кто ценит надежность и удобство. <br/>Заходите в профиль📲<br/><br/>Зажим анкерный DN 126 NILED.<br/><br/>📦 Все товары уже на складе в Хабаровске – никаких ожиданий, приезжайте и забирайте, когда удобно. Мы знаем, как важны качество и сроки для мастеров и подрядчиков.<br/><br/><strong>🚀 Почему стоит выбрать нас?</strong><br/>• Всё в одном месте: от светодиодных ламп до коробок и кабелей – полный комплект для вашего проекта<br/>• Гарантия качества: продукция от проверенных брендов, соответствующая всем стандартам<br/>• Удобный самовывоз и наличие товаров на месте – экономьте время и деньги<br/><br/><strong>✉️ Напишите нам сообщение прямо сейчас</strong>, и мы поможем вам с выбором и ответим на все вопросы. Решите все задачи по электромонтажу в одном месте!]]></Description>
+    <Price>255</Price>
+    <ContactPhone>79300358026</ContactPhone>
+    <ManagerName>Менеджер ДКА</ManagerName>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/petukhova2023-bit/unergi-avito-feed/main/images/10600129.jpg"/>
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>DKA-91540</Id>
+    <AvitoId>4170692914</AvitoId>
+    <Address>Хабаровск, ул. Лазо, 2Д/3</Address>
+    <Category>Ремонт и строительство</Category>
+    <GoodsType>Стройматериалы</GoodsType>
+    <GoodsSubType>Электрика</GoodsSubType>
+    <AdType>Товар приобретен на продажу</AdType>
+    <Availability>В наличии</Availability>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <Brand>DKC</Brand>
+    <CompanyName>ООО «ДКА»</CompanyName>
+    <EMail>dka@dka-khv.ru</EMail>
+    <Condition>Новое</Condition>
+    <Title>Труба гофр. ПВХ d40 тяжёлая DKC 91540</Title>
+    <Description><![CDATA[<strong>🔌 Всё для электромонтажа и ремонта в Хабаровске – здесь и сейчас!</strong><br/>Мы предлагаем широкий ассортимент электротехнической продукции для тех, кто ценит надежность и удобство. <br/>Заходите в профиль📲<br/><br/>Труба гофр. ПВХ d40 тяжёлая DKC 91540.<br/><br/>📦 Все товары уже на складе в Хабаровске – никаких ожиданий, приезжайте и забирайте, когда удобно. Мы знаем, как важны качество и сроки для мастеров и подрядчиков.<br/><br/><strong>🚀 Почему стоит выбрать нас?</strong><br/>• Всё в одном месте: от светодиодных ламп до коробок и кабелей – полный комплект для вашего проекта<br/>• Гарантия качества: продукция от проверенных брендов, соответствующая всем стандартам<br/>• Удобный самовывоз и наличие товаров на месте – экономьте время и деньги<br/><br/><strong>✉️ Напишите нам сообщение прямо сейчас</strong>, и мы поможем вам с выбором и ответим на все вопросы. Решите все задачи по электромонтажу в одном месте!]]></Description>
+    <Price>3169</Price>
+    <ContactPhone>79300358026</ContactPhone>
+    <ManagerName>Менеджер ДКА</ManagerName>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/petukhova2023-bit/unergi-avito-feed/main/images/91540.jpg"/>
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>DKA-22506DEK</Id>
+    <AvitoId>7946573538</AvitoId>
+    <Address>Хабаровск, ул. Лазо, 2Д/3</Address>
+    <Category>Ремонт и строительство</Category>
+    <GoodsType>Стройматериалы</GoodsType>
+    <GoodsSubType>Электрика</GoodsSubType>
+    <AdType>Товар приобретен на продажу</AdType>
+    <Availability>В наличии</Availability>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <Brand>DEKraft</Brand>
+    <CompanyName>ООО «ДКА»</CompanyName>
+    <EMail>dka@dka-khv.ru</EMail>
+    <Condition>Новое</Condition>
+    <Title>Автомат ВА335Е 630А 3P 50кА DEKraft</Title>
+    <Description><![CDATA[<strong>🔌 Всё для электромонтажа и ремонта в Хабаровске – здесь и сейчас!</strong><br/>Мы предлагаем широкий ассортимент электротехнической продукции для тех, кто ценит надежность и удобство. <br/>Заходите в профиль📲<br/><br/>Автомат ВА335Е 630А 3P 50кА DEKraft.<br/><br/>📦 Все товары уже на складе в Хабаровске – никаких ожиданий, приезжайте и забирайте, когда удобно. Мы знаем, как важны качество и сроки для мастеров и подрядчиков.<br/><br/><strong>🚀 Почему стоит выбрать нас?</strong><br/>• Всё в одном месте: от светодиодных ламп до коробок и кабелей – полный комплект для вашего проекта<br/>• Гарантия качества: продукция от проверенных брендов, соответствующая всем стандартам<br/>• Удобный самовывоз и наличие товаров на месте – экономьте время и деньги<br/><br/><strong>✉️ Напишите нам сообщение прямо сейчас</strong>, и мы поможем вам с выбором и ответим на все вопросы. Решите все задачи по электромонтажу в одном месте!]]></Description>
+    <Price>43498</Price>
+    <ContactPhone>79300358026</ContactPhone>
+    <ManagerName>Менеджер ДКА</ManagerName>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/petukhova2023-bit/unergi-avito-feed/main/images/22506DEK.jpg"/>
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>DKA-TKL-FL-LED-100-6-5K-IP65</Id>
+    <AvitoId>7914758740</AvitoId>
+    <Address>Хабаровск, ул. Лазо, 2Д/3</Address>
+    <Category>Ремонт и строительство</Category>
+    <GoodsType>Стройматериалы</GoodsType>
+    <GoodsSubType>Электрика</GoodsSubType>
+    <AdType>Товар приобретен на продажу</AdType>
+    <Availability>В наличии</Availability>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <Brand>TOKOV ELECTRIC</Brand>
+    <CompanyName>ООО «ДКА»</CompanyName>
+    <EMail>dka@dka-khv.ru</EMail>
+    <Condition>Новое</Condition>
+    <Title>Прожектор LED 100Вт TOKOV IP65</Title>
+    <Description><![CDATA[<strong>🔌 Всё для электромонтажа и ремонта в Хабаровске – здесь и сейчас!</strong><br/>Мы предлагаем широкий ассортимент электротехнической продукции для тех, кто ценит надежность и удобство. <br/>Заходите в профиль📲<br/><br/>Прожектор LED 100Вт TOKOV IP65.<br/><br/>📦 Все товары уже на складе в Хабаровске – никаких ожиданий, приезжайте и забирайте, когда удобно. Мы знаем, как важны качество и сроки для мастеров и подрядчиков.<br/><br/><strong>🚀 Почему стоит выбрать нас?</strong><br/>• Всё в одном месте: от светодиодных ламп до коробок и кабелей – полный комплект для вашего проекта<br/>• Гарантия качества: продукция от проверенных брендов, соответствующая всем стандартам<br/>• Удобный самовывоз и наличие товаров на месте – экономьте время и деньги<br/><br/><strong>✉️ Напишите нам сообщение прямо сейчас</strong>, и мы поможем вам с выбором и ответим на все вопросы. Решите все задачи по электромонтажу в одном месте!]]></Description>
+    <Price>1493</Price>
+    <ContactPhone>79300358026</ContactPhone>
+    <ManagerName>Менеджер ДКА</ManagerName>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/petukhova2023-bit/unergi-avito-feed/main/images/TKL-FL_LED-100-6_5K-IP65.jpg"/>
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>DKA-CLP10-080-300-3</Id>
+    <AvitoId>7914018619</AvitoId>
+    <Address>Хабаровск, ул. Лазо, 2Д/3</Address>
+    <Category>Ремонт и строительство</Category>
+    <GoodsType>Стройматериалы</GoodsType>
+    <GoodsSubType>Электрика</GoodsSubType>
+    <AdType>Товар приобретен на продажу</AdType>
+    <Availability>В наличии</Availability>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <Brand>IEK</Brand>
+    <CompanyName>ООО «ДКА»</CompanyName>
+    <EMail>dka@dka-khv.ru</EMail>
+    <Condition>Новое</Condition>
+    <Title>Лоток перф. 300х80 3м IEK</Title>
+    <Description><![CDATA[<strong>🔌 Всё для электромонтажа и ремонта в Хабаровске – здесь и сейчас!</strong><br/>Мы предлагаем широкий ассортимент электротехнической продукции для тех, кто ценит надежность и удобство. <br/>Заходите в профиль📲<br/><br/>Лоток перф. 300х80 3м IEK.<br/><br/>📦 Все товары уже на складе в Хабаровске – никаких ожиданий, приезжайте и забирайте, когда удобно. Мы знаем, как важны качество и сроки для мастеров и подрядчиков.<br/><br/><strong>🚀 Почему стоит выбрать нас?</strong><br/>• Всё в одном месте: от светодиодных ламп до коробок и кабелей – полный комплект для вашего проекта<br/>• Гарантия качества: продукция от проверенных брендов, соответствующая всем стандартам<br/>• Удобный самовывоз и наличие товаров на месте – экономьте время и деньги<br/><br/><strong>✉️ Напишите нам сообщение прямо сейчас</strong>, и мы поможем вам с выбором и ответим на все вопросы. Решите все задачи по электромонтажу в одном месте!]]></Description>
+    <Price>1959</Price>
+    <ContactPhone>79300358026</ContactPhone>
+    <ManagerName>Менеджер ДКА</ManagerName>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/petukhova2023-bit/unergi-avito-feed/main/images/CLP10-080-300-3.jpg"/>
+    </Images>
+  </Ad>
 </Ads>
