@@ -17949,7 +17949,8 @@
       ],
       "image_filename": "V1-U0-00821-21S00-6501540.jpg",
       "avito_id": 4171423301,
-      "publish": true
+      "publish": false,
+      "_skip_reason": "ожидает аудита фото (вне топ-14 одобренных Надей 31.05)"
     },
     {
       "id": "DKA-KK-19040016-048",
@@ -18618,7 +18619,8 @@
       ],
       "image_filename": "ZP_95М.jpg",
       "avito_id": 7338390465,
-      "publish": true
+      "publish": false,
+      "_skip_reason": "ожидает аудита фото (вне топ-14 одобренных Надей 31.05)"
     },
     {
       "id": "DKA-2860000",
@@ -18715,7 +18717,8 @@
       ],
       "image_filename": "22762DEK.jpg",
       "avito_id": 7946655581,
-      "publish": true
+      "publish": false,
+      "_skip_reason": "ожидает аудита фото (вне топ-14 одобренных Надей 31.05)"
     },
     {
       "id": "DKA-BKL-2700DA-R-12-4000",
@@ -18859,7 +18862,8 @@
       ],
       "image_filename": "01791.jpg",
       "avito_id": 7530613909,
-      "publish": true
+      "publish": false,
+      "_skip_reason": "ожидает аудита фото (вне топ-14 одобренных Надей 31.05)"
     },
     {
       "id": "DKA-78513",
@@ -18949,7 +18953,8 @@
       ],
       "image_filename": "УК-П-01Б.jpg",
       "avito_id": 7338868025,
-      "publish": true
+      "publish": false,
+      "_skip_reason": "ожидает аудита фото (вне топ-14 одобренных Надей 31.05)"
     },
     {
       "id": "DKA-35023",
@@ -18995,7 +19000,8 @@
       ],
       "image_filename": "35023.jpg",
       "avito_id": 7594222414,
-      "publish": true
+      "publish": false,
+      "_skip_reason": "ожидает аудита фото (вне топ-14 одобренных Надей 31.05)"
     },
     {
       "id": "DKA-SO118-1201S",
@@ -19041,8 +19047,7 @@
       ],
       "image_filename": "SO118_1201S.jpg",
       "avito_id": 7338267961,
-      "publish": false,
-      "_skip_reason": "массовый аудит фото — публикация приостановлена до подтверждения качества"
+      "publish": true
     },
     {
       "id": "DKA-CTR10-050-K41-015I",
@@ -19367,7 +19372,8 @@
       ],
       "image_filename": "025122.jpg",
       "avito_id": 4171141472,
-      "publish": true
+      "publish": false,
+      "_skip_reason": "ожидает аудита фото (вне топ-14 одобренных Надей 31.05)"
     },
     {
       "id": "DKA-10600129",
@@ -19650,7 +19656,8 @@
       ],
       "image_filename": "TKL-FL_LED-100-6_5K-IP65.jpg",
       "avito_id": 7914758740,
-      "publish": true
+      "publish": false,
+      "_skip_reason": "ожидает аудита фото (вне топ-14 одобренных Надей 31.05)"
     },
     {
       "id": "DKA-R71",
